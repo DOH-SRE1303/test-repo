@@ -1,0 +1,10 @@
+# YAML configuration for all project languages
+path_data:
+  chars: Y:\Datasets\Restricted\CHARS_Limited\
+  chars-annual: Y:\Datasets\Restricted\CHARS_Limited\CSV
+  chars-prelim: Y:\Datasets\Restricted\CHARS_Limited\Preliminary Quarterly
+path_proj:
+  data: ./data
+  # beds-and-hosp-loc: Beds_and_Hosp_Locations.csv
+  comorbidity: Comorbidity_data.csv
+  

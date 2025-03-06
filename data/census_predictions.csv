@@ -1,0 +1,1180 @@
+"reportingday","Facility","Pediatric.Acute.Care.Beds.Currently.In.Use.x","Pediatric.Acute.Care.Bed.Capacity","Pediatric.ICU.Bed.Capacity","Pediatric.ICU.Beds.Currently.In.Use.x","Adult.Acute.Care.Beds.Currently.In.Use.x","Adult.Acute.Care.Bed.Capacity","Adult.ICU.Bed.Capacity","Adult.ICU.Beds.Currently.In.Use.x","Is.Staffed.For.Full.Capacity","Previous.Day.Adult.ED.Visits.x","Previous.Day.Pediatric.ED.Visits.x","Pediatric.Acute.Care.Beds.Currently.In.Use.y","Pediatric.ICU.Beds.Currently.In.Use.y","Adult.Acute.Care.Beds.Currently.In.Use.y","Adult.ICU.Beds.Currently.In.Use.y","Previous.Day.Adult.ED.Visits.y","Previous.Day.Pediatric.ED.Visits.y"
+2024-05-18,"Seattle Childrens",170,208,58,52,8,8,1,1,"Yes",5,166,166,49,9,1,3,165
+2024-05-19,"Seattle Childrens",162,196,57,48,5,5,2,2,"Yes",1,176,165,49,9,1,3,163
+2024-05-20,"Seattle Childrens",146,188,57,52,4,4,2,2,"Yes",3,175,165,48,9,1,3,164
+2024-05-21,"Seattle Childrens",165,209,56,52,4,4,2,2,"Yes",4,219,166,48,9,1,3,168
+2024-05-21,"Seattle Childrens",165,209,56,52,4,4,2,2,"Yes",4,219,166,48,9,1,3,168
+2024-05-22,"Seattle Childrens",182,219,55,51,6,6,2,2,"Yes",1,160,166,48,9,1,3,169
+2024-05-23,"Seattle Childrens",184,227,53,41,7,7,3,3,"Yes",8,152,168,48,9,1,3,167
+2024-05-24,"Seattle Childrens",188,210,52,40,10,10,3,3,"Yes",4,163,171,47,9,1,3,165
+2024-05-25,"Seattle Childrens",165,217,56,47,11,11,2,2,"Yes",4,128,172,47,9,1,3,166
+2024-05-26,"Seattle Childrens",158,210,48,42,11,11,3,3,"Yes",5,145,171,48,9,1,3,164
+2024-05-27,"Seattle Childrens",144,184,51,41,9,9,2,2,"Yes",2,163,171,47,9,1,3,165
+2024-05-28,"Seattle Childrens",144,204,60,42,10,10,2,2,"Yes",4,177,170,47,9,1,3,166
+2024-05-29,"Seattle Childrens",151,202,60,51,8,8,2,2,"Yes",3,181,170,47,9,1,3,166
+2024-05-30,"Seattle Childrens",163,202,63,51,10,10,1,1,"Yes",7,168,170,48,9,1,3,167
+2024-05-18,"Legacy Salmon Creek Medical Center",0,0,0,0,137,140,16,14,"Yes",165,30,0,0,139,12,174,68
+2024-05-19,"Legacy Salmon Creek Medical Center",0,0,0,0,137,140,16,14,"Yes",154,34,0,0,138,12,173,39
+2024-05-20,"Legacy Salmon Creek Medical Center",0,0,0,0,138,140,13,12,"Yes",153,27,0,0,137,12,171,41
+2024-05-21,"Legacy Salmon Creek Medical Center",0,0,0,0,140,140,15,13,"Yes",185,32,0,0,137,12,167,41
+2024-05-22,"Legacy Salmon Creek Medical Center",0,0,0,0,140,140,16,13,"Yes",185,179,0,0,137,12,166,39
+2024-05-23,"Legacy Salmon Creek Medical Center",0,0,0,0,139,140,16,15,"Yes",179,25,0,0,137,12,165,41
+2024-05-24,"Legacy Salmon Creek Medical Center",0,0,0,0,139,140,16,15,"Yes",166,34,0,0,137,12,171,41
+2024-05-25,"Legacy Salmon Creek Medical Center",0,0,0,0,139,140,16,15,"Yes",154,38,0,0,137,12,172,54
+2024-05-26,"Legacy Salmon Creek Medical Center",0,0,0,0,139,140,16,15,"Yes",148,27,0,0,137,12,172,41
+2024-05-27,"Legacy Salmon Creek Medical Center",0,0,0,0,139,140,16,12,"Yes",159,39,0,0,137,12,171,42
+2024-05-28,"Legacy Salmon Creek Medical Center",0,0,0,0,140,140,16,12,"Yes",183,34,0,0,137,12,168,43
+2024-05-18,"EvergreenHealth Monroe",0,0,0,0,15,17,0,0,"Yes",51,6,0,0,10,0,46,8
+2024-05-19,"EvergreenHealth Monroe",0,0,0,0,15,17,0,0,"Yes",42,6,0,0,10,0,46,7
+2024-05-20,"EvergreenHealth Monroe",0,0,0,0,14,15,0,0,"Yes",41,8,0,0,10,0,46,8
+2024-05-21,"EvergreenHealth Monroe",0,0,0,0,14,15,0,0,"Yes",59,13,0,0,10,0,46,7
+2024-05-22,"EvergreenHealth Monroe",0,0,0,0,9,15,0,0,"Yes",42,3,0,0,10,0,46,8
+2024-05-23,"EvergreenHealth Monroe",0,0,0,0,9,15,0,0,"Yes",41,9,0,0,10,0,46,7
+2024-05-24,"EvergreenHealth Monroe",0,0,0,0,9,15,0,0,"Yes",52,9,0,0,10,0,46,8
+2024-05-25,"EvergreenHealth Monroe",0,0,0,0,9,15,0,0,"Yes",50,13,0,0,10,0,46,7
+2024-05-26,"EvergreenHealth Monroe",0,0,0,0,7,15,0,0,"Yes",42,10,0,0,10,0,46,8
+2024-05-27,"EvergreenHealth Monroe",0,0,0,0,4,15,0,0,"Yes",47,6,0,0,11,0,46,7
+2024-05-28,"EvergreenHealth Monroe",0,0,0,0,7,15,0,0,"Yes",44,6,0,0,11,0,46,7
+2024-05-29,"EvergreenHealth Monroe",0,0,0,0,9,15,0,0,"Yes",50,8,0,0,11,0,46,7
+2024-05-18,"Shriners Hospitals for Children - Spokane",2,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-19,"Shriners Hospitals for Children - Spokane",2,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-20,"Shriners Hospitals for Children - Spokane",2,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-21,"Shriners Hospitals for Children - Spokane",5,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-22,"Shriners Hospitals for Children - Spokane",5,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-23,"Shriners Hospitals for Children - Spokane",5,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-24,"Shriners Hospitals for Children - Spokane",6,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-25,"Shriners Hospitals for Children - Spokane",4,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-26,"Shriners Hospitals for Children - Spokane",3,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-27,"Shriners Hospitals for Children - Spokane",2,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-28,"Shriners Hospitals for Children - Spokane",5,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-29,"Shriners Hospitals for Children - Spokane",3,8,0,0,0,0,0,0,"Yes",0,0,3,0,0,0,0,0
+2024-05-18,"Summit Pacific Medical Center",0,0,0,0,10,10,0,0,"Yes",39,14,0,0,6,0,41,11
+2024-05-18,"Summit Pacific Medical Center",0,0,0,0,10,10,0,0,"Yes",27,11,0,0,6,0,41,11
+2024-05-19,"Summit Pacific Medical Center",0,0,0,0,8,10,0,0,"Yes",27,11,0,0,6,0,39,11
+2024-05-20,"Summit Pacific Medical Center",0,0,0,0,8,10,0,0,"Yes",46,9,0,0,7,0,38,11
+2024-05-21,"Summit Pacific Medical Center",0,0,0,0,12,12,0,0,"Yes",49,13,0,0,7,0,39,11
+2024-05-22,"Summit Pacific Medical Center",0,0,0,0,10,10,0,0,"Yes",30,14,0,0,7,0,40,11
+2024-05-22,"Summit Pacific Medical Center",0,0,0,0,10,10,0,0,"Yes",30,14,0,0,7,0,40,11
+2024-05-23,"Summit Pacific Medical Center",0,0,0,0,9,10,0,0,"Yes",44,13,0,0,7,0,41,11
+2024-05-24,"Summit Pacific Medical Center",0,0,0,0,6,10,0,0,"Yes",46,6,0,0,7,0,40,11
+2024-05-25,"Summit Pacific Medical Center",0,0,0,0,4,10,0,0,"Yes",35,11,0,0,7,0,40,11
+2024-05-26,"Summit Pacific Medical Center",0,0,0,0,4,10,0,0,"Yes",33,15,0,0,7,0,40,11
+2024-05-27,"Summit Pacific Medical Center",0,0,0,0,5,10,0,0,"Yes",35,14,0,0,7,0,39,11
+2024-05-28,"Summit Pacific Medical Center",0,0,0,0,5,10,0,0,"Yes",56,6,0,0,7,0,39,11
+2024-05-29,"Summit Pacific Medical Center",0,0,0,0,6,10,0,0,"Yes",52,10,0,0,7,0,40,11
+2024-05-18,"Newport Hospital & Health Services",0,2,0,0,4,13,0,0,"Yes",26,1,0,0,5,0,23,4
+2024-05-19,"Newport Hospital & Health Services",0,2,0,0,5,13,0,0,"Yes",26,2,0,0,5,0,23,4
+2024-05-20,"Newport Hospital & Health Services",1,2,0,0,7,13,0,0,"Yes",22,11,0,0,5,0,23,4
+2024-05-21,"Newport Hospital & Health Services",1,2,0,0,6,13,0,0,"Yes",29,6,0,0,5,0,23,4
+2024-05-22,"Newport Hospital & Health Services",0,2,0,0,9,13,0,0,"Yes",25,4,0,0,5,0,23,4
+2024-05-23,"Newport Hospital & Health Services",0,2,0,0,9,13,0,0,"Yes",16,2,0,0,5,0,23,4
+2024-05-24,"Newport Hospital & Health Services",0,2,0,0,6,13,0,0,"Yes",18,1,0,0,5,0,23,4
+2024-05-25,"Newport Hospital & Health Services",1,2,0,0,3,13,0,0,"Yes",21,2,0,0,5,0,23,4
+2024-05-26,"Newport Hospital & Health Services",0,2,0,0,3,13,0,0,"Yes",31,2,0,0,5,0,23,4
+2024-05-27,"Newport Hospital & Health Services",0,2,0,0,5,13,0,0,"Yes",26,8,0,0,5,0,23,4
+2024-05-28,"Newport Hospital & Health Services",1,2,0,0,5,13,0,0,"Yes",29,6,0,0,5,0,23,4
+2024-05-29,"Newport Hospital & Health Services",0,2,0,0,5,13,0,0,"Yes",22,5,0,0,5,0,23,4
+2024-05-18,"Skagit Valley Hospital",0,2,0,0,123,125,10,6,"Yes",93,11,0,0,114,5,89,12
+2024-05-19,"Skagit Valley Hospital",1,2,0,0,112,123,10,6,"Yes",75,13,0,0,114,5,86,12
+2024-05-20,"Skagit Valley Hospital",0,1,0,0,116,123,10,8,"Yes",84,15,0,0,114,5,85,13
+2024-05-21,"Skagit Valley Hospital",0,2,0,0,119,123,10,8,"Yes",107,16,0,0,114,5,85,13
+2024-05-22,"Skagit Valley Hospital",0,2,0,0,125,126,9,7,"Yes",87,13,0,0,114,6,85,13
+2024-05-23,"Skagit Valley Hospital",0,2,0,0,114,123,10,9,"Yes",86,15,0,0,114,6,86,13
+2024-05-23,"Skagit Valley Hospital",0,2,0,0,113,123,10,9,"Yes",86,15,0,0,114,6,86,13
+2024-05-24,"Skagit Valley Hospital",0,2,0,0,119,123,10,9,"Yes",86,11,0,0,114,6,86,13
+2024-05-25,"Skagit Valley Hospital",0,2,0,0,119,123,10,6,"Yes",80,10,0,0,114,6,86,13
+2024-05-26,"Skagit Valley Hospital",0,2,0,0,109,123,10,8,"Yes",80,9,0,0,114,6,85,13
+2024-05-27,"Skagit Valley Hospital",1,2,0,0,124,126,10,6,"Yes",84,14,0,0,114,6,85,13
+2024-05-28,"Skagit Valley Hospital",2,2,0,0,114,123,10,6,"Yes",83,18,0,0,114,6,85,13
+2024-05-29,"Skagit Valley Hospital",2,2,0,0,114,123,9,5,"Yes",94,11,0,0,114,6,85,13
+2024-05-29,"Skagit Valley Hospital",1,2,0,0,114,123,9,5,"Yes",94,11,0,0,114,6,85,13
+2024-05-18,"Trios Southridge Hospital",0,0,0,0,45,52,14,4,"Yes",77,0,0,0,51,5,72,0
+2024-05-19,"Trios Southridge Hospital",0,0,0,0,44,52,14,6,"Yes",76,0,0,0,51,4,69,0
+2024-05-20,"Trios Southridge Hospital",0,0,0,0,52,56,14,4,"Yes",71,0,0,0,51,4,72,0
+2024-05-21,"Trios Southridge Hospital",0,0,0,0,62,65,14,4,"Yes",73,0,0,0,51,4,69,0
+2024-05-22,"Trios Southridge Hospital",0,0,0,0,60,69,14,3,"Yes",73,0,0,0,52,4,70,0
+2024-05-23,"Trios Southridge Hospital",0,0,0,0,61,63,14,2,"Yes",78,0,0,0,53,4,68,0
+2024-05-24,"Trios Southridge Hospital",0,0,0,0,56,60,14,2,"Yes",75,0,0,0,53,4,70,0
+2024-05-25,"Trios Southridge Hospital",0,0,0,0,50,58,14,3,"Yes",78,0,0,0,53,4,71,0
+2024-05-26,"Trios Southridge Hospital",0,0,0,0,54,61,14,4,"Yes",65,0,0,0,52,4,70,0
+2024-05-27,"Trios Southridge Hospital",0,0,0,0,56,68,14,4,"Yes",75,0,0,0,52,4,70,0
+2024-05-28,"Trios Southridge Hospital",0,0,0,0,54,60,14,4,"Yes",67,0,0,0,52,4,68,0
+2024-05-29,"Trios Southridge Hospital",0,0,0,0,52,62,14,6,"Yes",77,0,0,0,52,4,70,0
+2024-05-18,"Providence St. Mary Medical Center",0,0,0,0,67,88,12,3,"Yes",79,22,0,0,69,2,79,16
+2024-05-19,"Providence St. Mary Medical Center",0,0,0,0,68,88,12,1,"Yes",74,19,0,0,67,2,84,17
+2024-05-20,"Providence St. Mary Medical Center",0,0,0,0,69,88,12,3,"Yes",90,21,0,0,67,2,86,16
+2024-05-21,"Providence St. Mary Medical Center",0,0,0,0,66,88,12,4,"Yes",85,13,0,0,66,2,80,16
+2024-05-22,"Providence St. Mary Medical Center",0,0,0,0,65,88,12,5,"Yes",87,14,0,0,65,2,81,17
+2024-05-23,"Providence St. Mary Medical Center",0,0,0,0,62,88,12,4,"Yes",75,19,0,0,66,2,86,16
+2024-05-24,"Providence St. Mary Medical Center",0,0,0,0,61,88,12,1,"Yes",78,19,0,0,66,2,80,16
+2024-05-25,"Providence St. Mary Medical Center",0,0,0,0,63,88,12,1,"Yes",70,14,0,0,64,2,84,16
+2024-05-26,"Providence St. Mary Medical Center",0,0,0,0,68,88,12,2,"Yes",70,13,0,0,66,2,84,16
+2024-05-27,"Providence St. Mary Medical Center",0,0,0,0,67,88,12,3,"Yes",86,21,0,0,66,2,79,15
+2024-05-28,"Providence St. Mary Medical Center",0,0,0,0,76,88,12,2,"Yes",109,21,0,0,64,2,81,16
+2024-05-18,"St. Lukes Rehabilitation Institute",0,0,0,0,48,48,0,0,"Yes",0,0,0,0,43,0,0,0
+2024-05-19,"St. Lukes Rehabilitation Institute",0,0,0,0,49,49,0,0,"Yes",0,0,0,0,42,0,0,0
+2024-05-20,"St. Lukes Rehabilitation Institute",0,0,0,0,47,47,0,0,"Yes",0,0,0,0,43,0,0,0
+2024-05-21,"St. Lukes Rehabilitation Institute",0,0,0,0,45,45,0,0,"Yes",0,0,0,0,44,0,0,0
+2024-05-22,"St. Lukes Rehabilitation Institute",0,0,0,0,46,46,0,0,"Yes",0,0,0,0,44,0,0,0
+2024-05-23,"St. Lukes Rehabilitation Institute",0,0,0,0,42,45,0,0,"Yes",0,0,0,0,44,0,0,0
+2024-05-24,"St. Lukes Rehabilitation Institute",0,0,0,0,43,45,0,0,"Yes",0,0,0,0,44,0,0,0
+2024-05-25,"St. Lukes Rehabilitation Institute",0,0,0,0,44,45,0,0,"Yes",0,0,0,0,45,0,0,0
+2024-05-26,"St. Lukes Rehabilitation Institute",0,0,0,0,44,45,0,0,"Yes",0,0,0,0,45,0,0,0
+2024-05-27,"St. Lukes Rehabilitation Institute",0,0,0,0,42,45,0,0,"Yes",0,0,0,0,45,0,0,0
+2024-05-28,"St. Lukes Rehabilitation Institute",0,0,0,0,37,45,0,0,"Yes",0,0,0,0,46,0,0,0
+2024-05-18,"Providence Mt Carmel",0,0,0,0,9,24,4,0,"Yes",27,2,0,0,12,2,27,5
+2024-05-19,"Providence Mt Carmel",0,0,0,0,7,24,4,0,"Yes",36,7,0,0,11,2,27,5
+2024-05-20,"Providence Mt Carmel",0,0,0,0,9,24,4,0,"Yes",26,6,0,0,11,2,27,6
+2024-05-21,"Providence Mt Carmel",0,0,0,0,16,24,4,3,"Yes",30,8,0,0,11,2,27,5
+2024-05-22,"Providence Mt Carmel",0,0,0,0,16,24,4,3,"Yes",22,9,0,0,11,2,28,5
+2024-05-23,"Providence Mt Carmel",0,0,0,0,10,24,4,2,"Yes",28,5,0,0,11,2,27,6
+2024-05-24,"Providence Mt Carmel",0,0,0,0,8,24,4,3,"Yes",30,5,0,0,11,2,27,5
+2024-05-25,"Providence Mt Carmel",0,0,0,0,8,24,4,2,"Yes",29,3,0,0,11,2,27,5
+2024-05-26,"Providence Mt Carmel",0,0,0,0,9,24,4,2,"Yes",22,8,0,0,11,2,27,6
+2024-05-27,"Providence Mt Carmel",0,0,0,0,9,24,4,2,"Yes",28,5,0,0,11,2,27,5
+2024-05-28,"Providence Mt Carmel",0,0,0,0,15,25,4,3,"Yes",28,5,0,0,11,2,27,5
+2024-05-18,"Providence Centralia Hospital",0,0,0,0,69,78,4,4,"Yes",76,11,0,0,62,4,70,10
+2024-05-19,"Providence Centralia Hospital",0,0,0,0,59,81,4,4,"Yes",65,7,0,0,63,4,71,11
+2024-05-20,"Providence Centralia Hospital",0,0,0,0,67,81,4,3,"Yes",81,15,0,0,64,3,80,10
+2024-05-21,"Providence Centralia Hospital",0,0,0,0,63,81,4,2,"Yes",91,10,0,0,63,3,81,10
+2024-05-22,"Providence Centralia Hospital",0,0,0,0,65,82,4,4,"Yes",79,13,0,0,63,3,73,10
+2024-05-23,"Providence Centralia Hospital",0,0,0,0,58,78,5,5,"Yes",73,9,0,0,64,3,74,11
+2024-05-24,"Providence Centralia Hospital",0,0,0,0,56,69,4,4,"Yes",69,11,0,0,64,3,77,10
+2024-05-25,"Providence Centralia Hospital",0,0,0,0,59,71,5,5,"Yes",64,3,0,0,63,3,77,10
+2024-05-26,"Providence Centralia Hospital",0,0,0,0,59,76,4,3,"Yes",61,14,0,0,63,3,75,10
+2024-05-27,"Providence Centralia Hospital",0,0,0,0,63,77,4,4,"Yes",88,8,0,0,64,3,75,11
+2024-05-28,"Providence Centralia Hospital",0,0,0,0,64,78,5,5,"Yes",94,12,0,0,64,3,76,10
+2024-05-18,"Kadlec Regional Medical Center",6,8,0,0,236,346,20,12,"Yes",123,26,5,0,243,15,130,30
+2024-05-19,"Kadlec Regional Medical Center",6,11,0,0,231,339,20,14,"Yes",98,43,5,0,244,15,130,26
+2024-05-20,"Kadlec Regional Medical Center",6,8,0,0,236,345,20,13,"Yes",125,36,5,0,245,15,133,31
+2024-05-21,"Kadlec Regional Medical Center",5,8,0,0,241,346,20,12,"Yes",148,35,5,0,246,15,134,27
+2024-05-22,"Kadlec Regional Medical Center",5,9,0,0,242,350,18,12,"Yes",146,22,5,0,245,15,133,29
+2024-05-23,"Kadlec Regional Medical Center",6,10,0,0,233,332,20,16,"Yes",128,34,5,0,244,15,131,26
+2024-05-24,"Kadlec Regional Medical Center",6,10,0,0,219,317,20,15,"Yes",144,24,5,0,244,15,130,30
+2024-05-25,"Kadlec Regional Medical Center",9,10,0,0,234,309,18,16,"Yes",133,34,5,0,245,15,131,27
+2024-05-26,"Kadlec Regional Medical Center",7,10,0,0,251,309,18,18,"Yes",124,23,5,0,245,15,130,30
+2024-05-27,"Kadlec Regional Medical Center",6,10,0,0,256,333,20,17,"Yes",142,31,5,0,247,15,130,27
+2024-05-28,"Kadlec Regional Medical Center",4,10,0,0,247,337,18,16,"Yes",136,26,5,0,245,15,130,30
+2024-05-18,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",23,2,0,0,3,0,13,3
+2024-05-19,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",12,3,0,0,4,0,13,3
+2024-05-20,"Providence St. Josephs",0,0,0,0,4,8,0,0,"Yes",17,4,0,0,4,0,13,3
+2024-05-21,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",16,1,0,0,4,0,13,3
+2024-05-22,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",12,8,0,0,4,0,13,3
+2024-05-23,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",19,1,0,0,4,0,13,3
+2024-05-24,"Providence St. Josephs",0,0,0,0,5,8,0,0,"Yes",17,1,0,0,4,0,13,3
+2024-05-25,"Providence St. Josephs",0,0,0,0,3,8,0,0,"Yes",11,5,0,0,4,0,13,3
+2024-05-26,"Providence St. Josephs",0,0,0,0,4,8,0,0,"Yes",6,6,0,0,4,0,13,3
+2024-05-27,"Providence St. Josephs",0,0,0,0,4,8,0,0,"Yes",9,6,0,0,4,0,13,3
+2024-05-28,"Providence St. Josephs",0,0,0,0,3,8,0,0,"Yes",6,4,0,0,4,0,13,3
+2024-05-18,"Providence Holy Family Hospital",0,0,0,0,103,137,12,5,"Yes",131,4,0,0,107,7,123,8
+2024-05-19,"Providence Holy Family Hospital",0,0,0,0,108,137,12,8,"Yes",125,11,0,0,109,7,123,7
+2024-05-20,"Providence Holy Family Hospital",0,0,0,0,124,124,9,9,"Yes",126,6,0,0,107,7,126,8
+2024-05-21,"Providence Holy Family Hospital",0,0,0,0,124,124,10,10,"Yes",136,12,0,0,106,7,132,7
+2024-05-22,"Providence Holy Family Hospital",0,0,0,0,118,123,9,8,"Yes",123,7,0,0,108,7,125,8
+2024-05-23,"Providence Holy Family Hospital",0,0,0,0,111,123,9,7,"Yes",124,5,0,0,108,7,123,7
+2024-05-24,"Providence Holy Family Hospital",0,0,0,0,104,125,9,6,"Yes",134,3,0,0,107,7,125,8
+2024-05-25,"Providence Holy Family Hospital",0,0,0,0,103,125,9,6,"Yes",114,12,0,0,106,7,129,7
+2024-05-26,"Providence Holy Family Hospital",0,0,0,0,101,125,9,7,"Yes",121,7,0,0,108,7,123,8
+2024-05-27,"Providence Holy Family Hospital",0,0,0,0,96,125,9,5,"Yes",118,10,0,0,108,7,123,7
+2024-05-28,"Providence Holy Family Hospital",0,0,0,0,109,115,9,9,"Yes",140,7,0,0,107,7,123,8
+2024-05-18,"Swedish Issaquah",0,0,0,0,84,104,21,1,"Yes",82,12,0,0,97,3,80,11
+2024-05-19,"Swedish Issaquah",0,0,0,0,80,102,17,2,"Yes",76,12,0,0,97,3,79,12
+2024-05-20,"Swedish Issaquah",0,0,0,0,83,110,21,2,"Yes",89,12,0,0,101,3,78,12
+2024-05-21,"Swedish Issaquah",0,0,0,0,82,109,18,3,"Yes",81,19,0,0,99,3,80,12
+2024-05-22,"Swedish Issaquah",0,0,0,0,82,106,18,4,"Yes",85,12,0,0,99,3,79,12
+2024-05-23,"Swedish Issaquah",0,0,0,0,85,107,19,4,"Yes",86,10,0,0,99,3,79,12
+2024-05-24,"Swedish Issaquah",0,0,0,0,92,93,20,5,"Yes",93,21,0,0,100,3,79,12
+2024-05-25,"Swedish Issaquah",0,0,0,0,91,108,24,3,"Yes",68,17,0,0,99,3,78,12
+2024-05-26,"Swedish Issaquah",0,0,0,0,87,100,27,4,"Yes",71,6,0,0,100,3,79,12
+2024-05-27,"Swedish Issaquah",0,0,0,0,87,102,21,3,"Yes",73,11,0,0,100,3,78,12
+2024-05-28,"Swedish Issaquah",0,0,0,0,109,119,21,5,"Yes",74,9,0,0,100,2,79,12
+2024-05-18,"Swedish Edmonds",0,0,0,0,154,374,8,5,"Yes",108,12,0,0,156,6,132,16
+2024-05-19,"Swedish Edmonds",0,0,0,0,150,400,10,4,"Yes",127,15,0,0,156,6,133,14
+2024-05-20,"Swedish Edmonds",0,0,0,0,153,388,8,6,"Yes",151,17,0,0,158,5,139,14
+2024-05-21,"Swedish Edmonds",0,0,0,0,156,390,13,6,"Yes",138,14,0,0,157,6,133,15
+2024-05-22,"Swedish Edmonds",0,0,0,0,161,391,13,4,"Yes",139,6,0,0,157,6,135,14
+2024-05-23,"Swedish Edmonds",0,0,0,0,159,383,11,11,"Yes",142,16,0,0,155,6,136,14
+2024-05-24,"Swedish Edmonds",0,0,0,0,142,383,10,9,"Yes",125,11,0,0,156,6,134,15
+2024-05-25,"Swedish Edmonds",0,0,0,0,151,373,13,5,"Yes",143,12,0,0,156,6,135,14
+2024-05-26,"Swedish Edmonds",0,0,0,0,155,368,13,9,"Yes",132,21,0,0,156,5,135,14
+2024-05-27,"Swedish Edmonds",0,0,0,0,170,372,13,8,"Yes",130,19,0,0,157,5,135,15
+2024-05-28,"Swedish Edmonds",0,0,0,0,159,374,13,4,"Yes",147,15,0,0,157,6,135,14
+2024-05-18,"Swedish Cherry Hill",0,0,0,0,151,151,34,29,"Yes",50,4,0,0,162,26,52,2
+2024-05-19,"Swedish Cherry Hill",0,0,0,0,151,151,33,25,"Yes",43,1,0,0,163,28,55,2
+2024-05-20,"Swedish Cherry Hill",0,0,0,0,166,166,30,30,"Yes",65,2,0,0,165,29,57,2
+2024-05-21,"Swedish Cherry Hill",0,0,0,0,165,165,33,32,"Yes",71,5,0,0,163,29,55,2
+2024-05-22,"Swedish Cherry Hill",0,0,0,0,172,172,39,35,"Yes",62,2,0,0,161,28,57,2
+2024-05-23,"Swedish Cherry Hill",0,0,0,0,179,179,38,31,"Yes",67,2,0,0,162,27,56,2
+2024-05-24,"Swedish Cherry Hill",0,0,0,0,172,172,38,38,"Yes",44,1,0,0,161,27,55,2
+2024-05-25,"Swedish Cherry Hill",0,0,0,0,161,161,34,29,"Yes",56,0,0,0,161,27,56,2
+2024-05-26,"Swedish Cherry Hill",0,0,0,0,154,154,31,26,"Yes",39,1,0,0,162,27,56,2
+2024-05-27,"Swedish Cherry Hill",0,0,0,0,150,150,32,20,"Yes",53,2,0,0,162,27,56,2
+2024-05-28,"Swedish Cherry Hill",0,0,0,0,164,164,28,24,"Yes",57,3,0,0,162,27,56,2
+2024-05-18,"Swedish Ballard",0,0,0,0,48,54,0,0,"Yes",41,2,0,0,51,0,53,3
+2024-05-19,"Swedish Ballard",0,0,0,0,47,52,0,0,"Yes",51,4,0,0,52,0,55,3
+2024-05-20,"Swedish Ballard",0,0,0,0,51,64,0,0,"Yes",70,4,0,0,52,0,61,3
+2024-05-21,"Swedish Ballard",0,0,0,0,46,59,0,0,"Yes",66,5,0,0,52,0,55,3
+2024-05-22,"Swedish Ballard",0,0,0,0,52,59,0,0,"Yes",47,4,0,0,52,0,57,3
+2024-05-23,"Swedish Ballard",0,0,0,0,52,59,0,0,"Yes",57,2,0,0,52,0,58,3
+2024-05-24,"Swedish Ballard",0,0,0,0,53,61,0,0,"Yes",51,3,0,0,52,0,54,3
+2024-05-25,"Swedish Ballard",0,0,0,0,51,61,0,0,"Yes",60,5,0,0,52,0,58,3
+2024-05-26,"Swedish Ballard",0,0,0,0,51,59,0,0,"Yes",55,5,0,0,52,0,58,3
+2024-05-27,"Swedish Ballard",0,0,0,0,53,57,0,0,"Yes",56,4,0,0,52,0,57,3
+2024-05-28,"Swedish Ballard",0,0,0,0,55,61,0,0,"Yes",79,3,0,0,52,0,57,3
+2024-05-18,"Providence St. Peter Hospital",0,3,0,0,346,361,29,25,"Yes",124,16,0,0,342,27,140,14
+2024-05-19,"Providence St. Peter Hospital",0,3,0,0,339,363,33,22,"Yes",135,17,0,0,343,27,145,14
+2024-05-20,"Providence St. Peter Hospital",0,0,0,0,355,355,32,27,"Yes",148,15,-1,0,350,26,148,14
+2024-05-21,"Providence St. Peter Hospital",0,0,0,0,353,353,29,27,"Yes",163,14,0,0,349,26,146,13
+2024-05-22,"Providence St. Peter Hospital",0,0,0,0,351,351,30,26,"Yes",145,10,0,0,347,26,147,14
+2024-05-23,"Providence St. Peter Hospital",0,0,0,0,354,372,31,24,"Yes",162,13,0,0,349,26,147,14
+2024-05-24,"Providence St. Peter Hospital",0,3,0,0,321,372,33,23,"Yes",155,11,0,0,348,26,141,13
+2024-05-25,"Providence St. Peter Hospital",0,3,0,0,331,371,30,25,"Yes",129,11,0,0,346,26,144,14
+2024-05-26,"Providence St. Peter Hospital",0,3,0,0,322,376,32,25,"Yes",136,12,0,0,350,26,141,14
+2024-05-27,"Providence St. Peter Hospital",0,3,0,0,344,371,32,31,"Yes",147,13,0,0,349,26,143,14
+2024-05-28,"Providence St. Peter Hospital",0,3,0,0,357,378,32,29,"Yes",162,21,0,0,346,26,143,14
+2024-05-18,"Swedish First Hill",10,13,4,2,371,465,32,21,"Yes",89,8,7,1,381,18,105,6
+2024-05-19,"Swedish First Hill",9,13,4,3,351,474,39,16,"Yes",97,11,7,1,383,19,108,6
+2024-05-20,"Swedish First Hill",12,12,4,4,387,497,41,13,"Yes",116,3,7,1,383,19,110,5
+2024-05-21,"Swedish First Hill",11,12,4,3,394,497,38,15,"Yes",128,3,7,1,384,18,108,6
+2024-05-22,"Swedish First Hill",12,20,4,3,406,503,41,17,"Yes",110,6,7,1,378,18,106,5
+2024-05-23,"Swedish First Hill",8,16,4,0,396,555,38,15,"Yes",100,9,7,1,382,18,110,6
+2024-05-24,"Swedish First Hill",8,12,4,0,399,498,37,17,"Yes",112,8,7,1,384,18,104,6
+2024-05-25,"Swedish First Hill",6,12,4,0,376,476,40,20,"Yes",100,4,7,1,381,18,107,6
+2024-05-26,"Swedish First Hill",6,10,4,0,361,471,41,21,"Yes",109,7,7,1,383,18,109,6
+2024-05-27,"Swedish First Hill",6,10,4,0,340,451,40,20,"Yes",100,4,7,1,385,18,107,5
+2024-05-28,"Swedish First Hill",8,10,4,1,380,486,35,19,"Yes",121,6,7,1,380,18,107,6
+2024-05-18,"Providence Sacred Heart Medical Center & Childrens Hospital",38,47,12,8,473,516,49,44,"Yes",155,77,35,7,460,42,143,70
+2024-05-19,"Providence Sacred Heart Medical Center & Childrens Hospital",35,47,12,8,477,488,48,45,"Yes",131,74,36,7,455,42,147,75
+2024-05-20,"Providence Sacred Heart Medical Center & Childrens Hospital",39,49,12,9,479,497,47,43,"Yes",157,80,35,7,461,42,161,80
+2024-05-21,"Providence Sacred Heart Medical Center & Childrens Hospital",38,49,12,9,507,524,49,43,"Yes",169,81,35,7,463,42,148,73
+2024-05-22,"Providence Sacred Heart Medical Center & Childrens Hospital",35,49,12,10,490,522,49,43,"Yes",151,69,36,7,456,42,153,74
+2024-05-23,"Providence Sacred Heart Medical Center & Childrens Hospital",37,49,12,12,475,525,44,38,"Yes",159,65,36,7,463,42,155,74
+2024-05-24,"Providence Sacred Heart Medical Center & Childrens Hospital",39,45,13,11,463,505,42,36,"Yes",161,64,35,7,460,43,146,71
+2024-05-25,"Providence Sacred Heart Medical Center & Childrens Hospital",37,45,13,8,455,518,42,34,"Yes",143,49,36,7,457,43,152,74
+2024-05-26,"Providence Sacred Heart Medical Center & Childrens Hospital",29,45,13,7,447,495,46,46,"Yes",142,72,36,7,459,43,152,74
+2024-05-27,"Providence Sacred Heart Medical Center & Childrens Hospital",35,45,13,9,429,494,45,45,"Yes",138,78,36,7,460,43,150,74
+2024-05-28,"Providence Sacred Heart Medical Center & Childrens Hospital",39,48,12,6,456,510,43,42,"Yes",182,97,36,7,458,43,152,76
+2024-05-18,"Providence Regional Medical Center Everett",0,0,0,0,505,505,37,37,"Yes",175,16,0,0,507,34,184,20
+2024-05-19,"Providence Regional Medical Center Everett",0,0,0,0,494,494,36,35,"Yes",167,20,-1,0,505,35,194,21
+2024-05-20,"Providence Regional Medical Center Everett",0,0,0,0,503,503,38,32,"Yes",208,17,-1,0,509,35,196,21
+2024-05-21,"Providence Regional Medical Center Everett",0,0,0,0,532,532,36,36,"Yes",184,26,-1,0,510,35,195,21
+2024-05-22,"Providence Regional Medical Center Everett",0,0,0,0,520,520,40,34,"Yes",218,20,-1,0,509,35,196,20
+2024-05-23,"Providence Regional Medical Center Everett",0,0,0,0,520,520,44,40,"Yes",204,23,-1,0,514,35,194,20
+2024-05-24,"Providence Regional Medical Center Everett",0,0,0,0,521,521,48,41,"Yes",206,11,-1,0,514,35,191,20
+2024-05-25,"Providence Regional Medical Center Everett",0,0,0,0,511,511,38,35,"Yes",162,16,-1,0,511,35,195,20
+2024-05-26,"Providence Regional Medical Center Everett",0,0,0,0,493,493,38,35,"Yes",179,24,-1,0,515,35,194,20
+2024-05-27,"Providence Regional Medical Center Everett",0,0,0,0,484,491,38,32,"Yes",196,25,-1,0,514,35,193,21
+2024-05-28,"Providence Regional Medical Center Everett",0,0,0,0,509,511,38,36,"Yes",207,27,-1,0,511,35,194,20
+2024-05-18,"Cascade Valley Hospital and Clinics",0,0,0,0,28,30,4,2,"Yes",61,12,0,0,27,0,67,10
+2024-05-19,"Cascade Valley Hospital and Clinics",0,0,0,0,28,30,4,0,"Yes",57,15,0,0,26,0,57,9
+2024-05-20,"Cascade Valley Hospital and Clinics",0,0,0,0,32,32,3,2,"Yes",49,13,0,0,26,1,53,10
+2024-05-21,"Cascade Valley Hospital and Clinics",0,0,0,0,33,33,1,1,"Yes",59,11,0,0,25,1,54,10
+2024-05-21,"Cascade Valley Hospital and Clinics",0,0,0,0,33,33,2,1,"Yes",59,11,0,0,25,1,54,10
+2024-05-22,"Cascade Valley Hospital and Clinics",0,0,0,0,30,33,2,2,"Yes",52,13,0,0,25,1,54,10
+2024-05-23,"Cascade Valley Hospital and Clinics",0,0,0,0,30,30,4,4,"Yes",49,13,0,0,25,1,55,10
+2024-05-24,"Cascade Valley Hospital and Clinics",0,0,0,0,28,30,4,3,"Yes",64,11,0,0,25,1,55,10
+2024-05-25,"Cascade Valley Hospital and Clinics",0,0,0,0,26,30,4,2,"Yes",49,7,0,0,25,1,55,10
+2024-05-26,"Cascade Valley Hospital and Clinics",0,0,0,0,24,30,4,1,"Yes",63,12,0,0,25,1,55,10
+2024-05-27,"Cascade Valley Hospital and Clinics",0,0,0,0,25,30,3,1,"Yes",42,9,0,0,25,1,55,9
+2024-05-28,"Cascade Valley Hospital and Clinics",0,0,0,0,25,30,3,0,"Yes",57,13,0,0,25,1,55,9
+2024-05-29,"Cascade Valley Hospital and Clinics",0,0,0,0,29,30,2,0,"Yes",78,10,0,0,25,1,55,9
+2024-05-18,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,2,"Yes",44,4,0,0,10,2,39,7
+2024-05-19,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,4,"Yes",38,7,0,0,10,2,40,7
+2024-05-20,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,4,"Yes",39,9,0,0,10,2,40,7
+2024-05-21,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,4,"Yes",46,11,0,0,9,2,41,7
+2024-05-22,"Kittitas Valley Healthcare",0,0,0,0,10,13,6,2,"Yes",34,5,0,0,9,2,40,7
+2024-05-23,"Kittitas Valley Healthcare",0,0,0,0,8,13,6,2,"Yes",37,5,0,0,9,2,40,7
+2024-05-24,"Kittitas Valley Healthcare",0,0,0,0,9,13,6,3,"Yes",50,7,0,0,9,2,40,7
+2024-05-25,"Kittitas Valley Healthcare",0,0,0,0,13,13,6,2,"Yes",35,6,0,0,9,2,40,7
+2024-05-26,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,2,"Yes",50,5,0,0,9,2,40,7
+2024-05-27,"Kittitas Valley Healthcare",0,0,0,0,12,13,6,4,"Yes",46,10,0,0,9,2,40,7
+2024-05-28,"Kittitas Valley Healthcare",0,0,0,0,13,13,6,2,"Yes",47,5,0,0,9,2,40,7
+2024-05-29,"Kittitas Valley Healthcare",0,0,0,0,11,13,6,3,"Yes",40,7,0,0,9,2,40,7
+2024-05-29,"Kittitas Valley Healthcare",0,0,0,0,11,13,6,3,"Yes",40,7,0,0,9,2,40,7
+2024-05-29,"Kittitas Valley Healthcare",0,0,0,0,11,13,6,3,"Yes",40,7,0,0,9,2,40,7
+2024-05-18,"Tri-State Memorial Hospital",0,0,0,0,6,17,6,4,"Yes",49,4,0,0,13,5,38,4
+2024-05-19,"Tri-State Memorial Hospital",0,0,0,0,5,17,6,3,"Yes",33,4,0,0,11,4,35,5
+2024-05-20,"Tri-State Memorial Hospital",0,0,0,0,6,17,6,3,"Yes",49,6,0,0,10,4,37,4
+2024-05-21,"Tri-State Memorial Hospital",0,0,0,0,10,17,6,3,"Yes",39,2,0,0,10,4,35,4
+2024-05-22,"Tri-State Memorial Hospital",0,0,0,0,16,17,6,4,"Yes",34,3,0,0,11,4,36,5
+2024-05-23,"Tri-State Memorial Hospital",0,0,0,0,15,17,6,6,"Yes",37,1,0,0,11,4,36,4
+2024-05-24,"Tri-State Memorial Hospital",0,0,0,0,11,17,6,5,"Yes",37,4,0,0,12,4,36,5
+2024-05-25,"Tri-State Memorial Hospital",0,0,0,0,10,17,6,4,"Yes",39,5,0,0,11,4,35,4
+2024-05-26,"Tri-State Memorial Hospital",0,0,0,0,11,17,6,3,"Yes",24,6,0,0,11,4,35,5
+2024-05-27,"Tri-State Memorial Hospital",0,0,0,0,15,17,6,4,"Yes",36,5,0,0,11,4,35,4
+2024-05-28,"Tri-State Memorial Hospital",0,0,0,0,16,17,6,4,"Yes",46,5,0,0,11,4,34,5
+2024-05-29,"Tri-State Memorial Hospital",0,0,0,0,14,17,6,6,"Yes",49,9,0,0,11,4,35,5
+2024-05-18,"MultiCare Valley Hospital",0,0,0,0,50,50,9,9,"Yes",104,0,0,0,49,7,132,0
+2024-05-19,"MultiCare Valley Hospital",0,0,0,0,50,50,10,8,"Yes",98,0,0,0,50,7,127,0
+2024-05-20,"MultiCare Valley Hospital",0,0,0,0,59,64,10,9,"Yes",138,0,0,0,50,7,126,0
+2024-05-21,"MultiCare Valley Hospital",0,0,0,0,58,59,10,7,"Yes",125,0,0,0,49,7,119,0
+2024-05-22,"MultiCare Valley Hospital",0,0,0,0,52,53,9,8,"Yes",139,0,0,0,49,7,121,0
+2024-05-23,"MultiCare Valley Hospital",0,0,0,0,53,57,10,8,"Yes",145,0,0,0,51,7,127,0
+2024-05-24,"MultiCare Valley Hospital",0,0,0,0,48,51,9,6,"Yes",125,0,0,0,50,6,127,0
+2024-05-25,"MultiCare Valley Hospital",0,0,0,0,50,50,7,6,"Yes",100,0,0,0,49,6,127,0
+2024-05-26,"MultiCare Valley Hospital",0,0,0,0,51,51,10,8,"Yes",125,0,0,0,50,6,127,0
+2024-05-27,"MultiCare Valley Hospital",0,0,0,0,48,51,10,8,"Yes",135,0,0,0,49,6,125,0
+2024-05-28,"MultiCare Valley Hospital",0,0,0,0,51,56,10,9,"Yes",146,0,0,0,49,6,121,0
+2024-05-18,"MultiCare Tacoma General Hospital",0,0,0,0,199,200,39,33,"Yes",131,0,0,0,207,35,160,0
+2024-05-19,"MultiCare Tacoma General Hospital",0,0,0,0,198,200,38,30,"Yes",152,0,0,0,206,35,148,0
+2024-05-20,"MultiCare Tacoma General Hospital",0,0,0,0,198,201,38,36,"Yes",159,0,0,0,205,35,144,0
+2024-05-21,"MultiCare Tacoma General Hospital",0,0,0,0,212,228,39,36,"Yes",157,0,0,0,205,35,146,0
+2024-05-22,"MultiCare Tacoma General Hospital",0,0,0,0,212,231,36,36,"Yes",154,0,0,0,205,35,143,0
+2024-05-23,"MultiCare Tacoma General Hospital",0,0,0,0,204,211,39,35,"Yes",143,0,0,0,205,35,146,0
+2024-05-24,"MultiCare Tacoma General Hospital",0,0,0,0,200,210,38,36,"Yes",142,0,0,0,205,35,153,0
+2024-05-25,"MultiCare Tacoma General Hospital",0,0,0,0,198,198,40,37,"Yes",142,0,0,0,205,35,150,0
+2024-05-26,"MultiCare Tacoma General Hospital",0,0,0,0,207,216,40,35,"Yes",131,0,0,0,205,35,146,0
+2024-05-27,"MultiCare Tacoma General Hospital",0,0,0,0,211,225,38,36,"Yes",135,0,0,0,205,35,147,0
+2024-05-28,"MultiCare Tacoma General Hospital",0,0,0,0,217,236,37,35,"Yes",184,0,0,0,205,35,146,0
+2024-05-18,"MultiCare Mary Bridge Childrens Hospital and Health Network",36,40,11,5,0,0,0,0,"Yes",0,129,43,10,0,0,0,141
+2024-05-19,"MultiCare Mary Bridge Childrens Hospital and Health Network",40,42,11,3,0,0,0,0,"Yes",0,127,39,9,0,0,0,141
+2024-05-20,"MultiCare Mary Bridge Childrens Hospital and Health Network",47,47,11,6,0,0,0,0,"Yes",0,159,40,9,0,0,0,140
+2024-05-21,"MultiCare Mary Bridge Childrens Hospital and Health Network",49,52,12,8,0,0,0,0,"Yes",0,162,40,8,0,0,0,138
+2024-05-22,"MultiCare Mary Bridge Childrens Hospital and Health Network",47,48,12,9,0,0,0,0,"Yes",0,153,40,8,0,0,0,138
+2024-05-23,"MultiCare Mary Bridge Childrens Hospital and Health Network",39,49,12,10,0,0,0,0,"Yes",0,149,41,8,0,0,0,141
+2024-05-24,"MultiCare Mary Bridge Childrens Hospital and Health Network",36,38,12,12,0,0,0,0,"Yes",0,128,40,8,0,0,0,142
+2024-05-25,"MultiCare Mary Bridge Childrens Hospital and Health Network",37,47,12,12,0,0,0,0,"Yes",0,128,40,8,0,0,0,142
+2024-05-26,"MultiCare Mary Bridge Childrens Hospital and Health Network",48,49,12,12,0,0,0,0,"Yes",0,127,40,8,0,0,0,142
+2024-05-27,"MultiCare Mary Bridge Childrens Hospital and Health Network",50,57,12,11,0,0,0,0,"Yes",0,141,40,8,0,0,0,140
+2024-05-28,"MultiCare Mary Bridge Childrens Hospital and Health Network",44,49,12,12,0,0,0,0,"Yes",0,145,40,8,0,0,0,140
+2024-05-18,"MultiCare Good Samaritan Hospital",0,0,0,0,224,224,40,39,"Yes",157,0,0,0,227,37,174,0
+2024-05-19,"MultiCare Good Samaritan Hospital",0,0,0,0,221,228,40,38,"Yes",150,0,0,0,226,37,169,0
+2024-05-20,"MultiCare Good Samaritan Hospital",0,0,0,0,222,223,38,38,"Yes",206,0,0,0,226,37,172,0
+2024-05-21,"MultiCare Good Samaritan Hospital",0,0,0,0,230,234,40,39,"Yes",179,0,0,0,225,37,167,0
+2024-05-22,"MultiCare Good Samaritan Hospital",0,0,0,0,225,229,39,38,"Yes",182,0,0,0,225,37,165,0
+2024-05-23,"MultiCare Good Samaritan Hospital",0,0,0,0,223,231,40,39,"Yes",166,0,0,0,225,37,169,0
+2024-05-24,"MultiCare Good Samaritan Hospital",0,0,0,0,226,232,40,40,"Yes",178,0,0,0,225,37,170,0
+2024-05-25,"MultiCare Good Samaritan Hospital",0,0,0,0,231,234,40,39,"Yes",160,0,0,0,225,37,171,0
+2024-05-26,"MultiCare Good Samaritan Hospital",0,0,0,0,228,234,38,36,"Yes",157,0,0,0,225,37,169,0
+2024-05-27,"MultiCare Good Samaritan Hospital",0,0,0,0,231,233,40,37,"Yes",166,0,0,0,225,37,170,0
+2024-05-28,"MultiCare Good Samaritan Hospital",0,0,0,0,229,233,40,38,"Yes",175,0,0,0,225,37,169,0
+2024-05-18,"MultiCare Deaconess Hospital",0,0,0,0,105,110,14,12,"Yes",92,0,0,0,113,11,111,0
+2024-05-19,"MultiCare Deaconess Hospital",0,0,0,0,113,115,12,11,"Yes",90,0,0,0,112,12,104,0
+2024-05-20,"MultiCare Deaconess Hospital",0,0,0,0,120,121,13,13,"Yes",97,0,0,0,110,12,104,0
+2024-05-21,"MultiCare Deaconess Hospital",0,0,0,0,119,122,14,13,"Yes",97,0,0,0,110,12,104,0
+2024-05-22,"MultiCare Deaconess Hospital",0,0,0,0,117,122,13,13,"Yes",114,0,0,0,109,12,104,0
+2024-05-23,"MultiCare Deaconess Hospital",0,0,0,0,122,124,18,17,"Yes",100,0,0,0,109,12,104,0
+2024-05-24,"MultiCare Deaconess Hospital",0,0,0,0,108,111,14,14,"Yes",100,0,0,0,109,12,104,0
+2024-05-25,"MultiCare Deaconess Hospital",0,0,0,0,102,107,12,10,"Yes",85,0,0,0,109,12,104,0
+2024-05-26,"MultiCare Deaconess Hospital",0,0,0,0,107,108,11,9,"Yes",96,0,0,0,109,12,104,0
+2024-05-27,"MultiCare Deaconess Hospital",0,0,0,0,112,119,13,10,"Yes",97,0,0,0,109,12,104,0
+2024-05-28,"MultiCare Deaconess Hospital",0,0,0,0,116,124,11,9,"Yes",125,0,0,0,109,12,104,0
+2024-05-18,"MultiCare Covington Medical Center",0,0,0,0,33,33,0,0,"Yes",113,0,0,0,26,0,105,0
+2024-05-19,"MultiCare Covington Medical Center",0,0,0,0,29,32,0,0,"Yes",104,0,0,0,27,0,103,0
+2024-05-20,"MultiCare Covington Medical Center",0,0,0,0,30,32,0,0,"Yes",121,0,0,0,27,0,100,0
+2024-05-21,"MultiCare Covington Medical Center",0,0,0,0,31,35,0,0,"Yes",115,0,0,0,28,0,99,0
+2024-05-22,"MultiCare Covington Medical Center",0,0,0,0,31,35,0,0,"Yes",109,0,0,0,28,0,98,0
+2024-05-23,"MultiCare Covington Medical Center",0,0,0,0,32,38,0,0,"Yes",111,0,0,0,28,0,103,0
+2024-05-24,"MultiCare Covington Medical Center",0,0,0,0,30,31,0,0,"Yes",81,0,0,0,28,0,102,0
+2024-05-25,"MultiCare Covington Medical Center",0,0,0,0,24,28,0,0,"Yes",81,0,0,0,28,0,101,0
+2024-05-26,"MultiCare Covington Medical Center",0,0,0,0,19,26,0,0,"Yes",82,0,0,0,27,0,101,0
+2024-05-27,"MultiCare Covington Medical Center",0,0,0,0,20,20,0,0,"Yes",109,0,0,0,27,0,99,0
+2024-05-28,"MultiCare Covington Medical Center",0,0,0,0,25,26,0,0,"Yes",111,0,0,0,27,0,99,0
+2024-05-18,"MultiCare Capital Medical Center",0,0,0,0,41,49,8,6,"Yes",64,0,0,0,44,6,89,0
+2024-05-19,"MultiCare Capital Medical Center",0,0,0,0,44,51,8,5,"Yes",84,0,0,0,42,6,80,0
+2024-05-20,"MultiCare Capital Medical Center",0,0,0,0,49,50,8,4,"Yes",86,0,0,0,41,6,78,0
+2024-05-21,"MultiCare Capital Medical Center",0,0,0,0,42,52,8,4,"Yes",82,0,0,0,40,6,76,0
+2024-05-22,"MultiCare Capital Medical Center",0,0,0,0,46,51,8,5,"Yes",92,0,0,0,41,6,77,0
+2024-05-23,"MultiCare Capital Medical Center",0,0,0,0,38,49,8,7,"Yes",71,0,0,0,41,6,77,0
+2024-05-24,"MultiCare Capital Medical Center",0,0,0,0,42,52,8,8,"Yes",80,0,0,0,41,5,80,0
+2024-05-25,"MultiCare Capital Medical Center",0,0,0,0,32,52,8,8,"Yes",67,0,0,0,41,5,78,0
+2024-05-26,"MultiCare Capital Medical Center",0,0,0,0,43,51,8,5,"Yes",77,0,0,0,41,5,77,0
+2024-05-27,"MultiCare Capital Medical Center",0,0,0,0,43,52,8,7,"Yes",81,0,0,0,41,5,77,0
+2024-05-28,"MultiCare Capital Medical Center",0,0,0,0,47,52,8,8,"Yes",107,0,0,0,41,5,77,0
+2024-05-18,"MultiCare Auburn Medical Center",0,0,0,0,65,65,15,14,"Yes",92,0,0,0,63,14,123,0
+2024-05-19,"MultiCare Auburn Medical Center",0,0,0,0,62,63,15,15,"Yes",106,0,0,0,63,14,116,0
+2024-05-20,"MultiCare Auburn Medical Center",0,0,0,0,63,63,14,14,"Yes",129,0,0,0,62,13,117,0
+2024-05-21,"MultiCare Auburn Medical Center",0,0,0,0,62,63,16,15,"Yes",113,0,0,0,62,13,116,0
+2024-05-22,"MultiCare Auburn Medical Center",0,0,0,0,59,62,16,14,"Yes",136,0,0,0,61,13,115,0
+2024-05-23,"MultiCare Auburn Medical Center",0,0,0,0,58,60,14,13,"Yes",119,0,0,0,61,13,116,0
+2024-05-24,"MultiCare Auburn Medical Center",0,0,0,0,55,63,13,13,"Yes",123,0,0,0,61,13,118,0
+2024-05-25,"MultiCare Auburn Medical Center",0,0,0,0,59,60,16,16,"Yes",120,0,0,0,61,13,117,0
+2024-05-26,"MultiCare Auburn Medical Center",0,0,0,0,60,61,16,14,"Yes",107,0,0,0,61,13,116,0
+2024-05-27,"MultiCare Auburn Medical Center",0,0,0,0,65,65,16,15,"Yes",116,0,0,0,61,13,116,0
+2024-05-28,"MultiCare Auburn Medical Center",0,0,0,0,64,64,15,15,"Yes",130,0,0,0,61,13,116,0
+2024-05-18,"MultiCare Allenmore Hospital",0,0,0,0,43,53,6,5,"Yes",101,0,0,0,48,4,101,0
+2024-05-19,"MultiCare Allenmore Hospital",0,0,0,0,44,54,6,6,"Yes",108,0,0,0,48,4,99,0
+2024-05-20,"MultiCare Allenmore Hospital",0,0,0,0,42,54,6,6,"Yes",118,0,0,0,49,5,99,0
+2024-05-21,"MultiCare Allenmore Hospital",0,0,0,0,43,54,6,4,"Yes",99,0,0,0,49,5,96,0
+2024-05-22,"MultiCare Allenmore Hospital",0,0,0,0,44,54,6,4,"Yes",101,0,0,0,49,5,97,0
+2024-05-23,"MultiCare Allenmore Hospital",0,0,0,0,40,51,6,5,"Yes",111,0,0,0,49,5,95,0
+2024-05-24,"MultiCare Allenmore Hospital",0,0,0,0,45,50,6,3,"Yes",108,0,0,0,49,5,98,0
+2024-05-25,"MultiCare Allenmore Hospital",0,0,0,0,46,52,6,5,"Yes",84,0,0,0,49,5,97,0
+2024-05-26,"MultiCare Allenmore Hospital",0,0,0,0,49,53,6,5,"Yes",97,0,0,0,49,5,98,0
+2024-05-27,"MultiCare Allenmore Hospital",0,0,0,0,48,52,6,4,"Yes",75,0,0,0,49,5,98,0
+2024-05-28,"MultiCare Allenmore Hospital",0,0,0,0,48,52,5,4,"Yes",108,0,0,0,49,5,96,0
+2024-05-18,"Lincoln Hospital",0,0,0,0,2,10,0,0,"Yes",10,2,0,0,3,0,8,2
+2024-05-18,"Lincoln Hospital",0,0,0,0,4,10,0,0,"Yes",6,1,0,0,3,0,8,2
+2024-05-19,"Lincoln Hospital",0,0,0,0,3,10,0,0,"Yes",11,4,0,0,3,0,8,2
+2024-05-20,"Lincoln Hospital",0,0,0,0,2,10,0,0,"Yes",6,1,0,0,3,0,8,2
+2024-05-21,"Lincoln Hospital",0,0,0,0,1,10,0,0,"Yes",9,3,0,0,3,0,8,2
+2024-05-22,"Lincoln Hospital",0,0,0,0,2,10,0,0,"Yes",11,1,0,0,3,0,8,2
+2024-05-23,"Lincoln Hospital",0,0,0,0,5,10,0,0,"Yes",6,2,0,0,3,0,8,2
+2024-05-24,"Lincoln Hospital",0,0,0,0,4,10,0,0,"Yes",9,1,0,0,3,0,8,2
+2024-05-25,"Lincoln Hospital",0,0,0,0,5,10,0,0,"Yes",7,2,0,0,3,0,8,2
+2024-05-26,"Lincoln Hospital",0,0,0,0,6,10,0,0,"Yes",7,3,0,0,3,0,8,2
+2024-05-27,"Lincoln Hospital",0,0,0,0,9,10,0,0,"Yes",11,6,0,0,3,0,8,2
+2024-05-28,"Lincoln Hospital",0,0,0,0,6,10,0,0,"Yes",7,3,0,0,3,0,8,2
+2024-05-29,"Lincoln Hospital",0,0,0,0,4,10,0,0,"Yes",9,1,0,0,3,0,8,2
+2024-05-18,"PeaceHealth United General Medical Center",0,0,0,0,11,11,0,0,"Yes",35,9,0,0,11,0,37,9
+2024-05-19,"PeaceHealth United General Medical Center",0,0,0,0,13,13,0,0,"Yes",44,11,0,0,12,0,36,9
+2024-05-20,"PeaceHealth United General Medical Center",0,0,0,0,12,12,0,0,"Yes",45,11,0,0,12,0,36,9
+2024-05-21,"PeaceHealth United General Medical Center",0,0,0,0,10,10,0,0,"Yes",46,6,0,0,12,0,36,9
+2024-05-22,"PeaceHealth United General Medical Center",0,0,0,0,13,13,0,0,"Yes",32,11,0,0,12,0,36,9
+2024-05-23,"PeaceHealth United General Medical Center",0,0,0,0,14,14,0,0,"Yes",33,9,0,0,12,0,36,9
+2024-05-24,"PeaceHealth United General Medical Center",0,0,0,0,18,18,0,0,"Yes",44,6,0,0,12,0,36,9
+2024-05-25,"PeaceHealth United General Medical Center",0,0,0,0,14,14,0,0,"Yes",40,9,0,0,12,0,36,9
+2024-05-26,"PeaceHealth United General Medical Center",0,0,0,0,12,12,0,0,"Yes",38,10,0,0,12,0,36,9
+2024-05-27,"PeaceHealth United General Medical Center",0,0,0,0,11,11,0,0,"Yes",26,14,0,0,12,0,36,9
+2024-05-28,"PeaceHealth United General Medical Center",0,0,0,0,11,11,0,0,"Yes",47,12,0,0,12,0,36,9
+2024-05-18,"PeaceHealth St. Joseph Medical Center",1,12,0,0,172,172,22,22,"Yes",172,26,0,0,182,19,190,24
+2024-05-19,"PeaceHealth St. Joseph Medical Center",2,12,0,0,168,168,16,16,"Yes",170,27,1,0,180,19,188,24
+2024-05-20,"PeaceHealth St. Joseph Medical Center",0,12,0,0,178,178,17,17,"Yes",188,23,1,0,179,19,187,23
+2024-05-21,"PeaceHealth St. Joseph Medical Center",2,12,0,0,177,177,18,18,"Yes",177,18,1,0,176,18,184,24
+2024-05-22,"PeaceHealth St. Joseph Medical Center",2,12,0,0,179,179,20,20,"Yes",188,18,1,0,177,18,184,23
+2024-05-23,"PeaceHealth St. Joseph Medical Center",4,12,0,0,173,173,16,16,"Yes",196,23,1,0,179,18,191,23
+2024-05-24,"PeaceHealth St. Joseph Medical Center",3,12,0,0,170,170,18,18,"Yes",191,18,1,0,179,18,190,24
+2024-05-25,"PeaceHealth St. Joseph Medical Center",1,12,0,0,165,165,19,19,"Yes",175,27,1,0,178,18,190,24
+2024-05-26,"PeaceHealth St. Joseph Medical Center",0,12,0,0,176,176,20,20,"Yes",182,22,1,0,178,18,189,24
+2024-05-27,"PeaceHealth St. Joseph Medical Center",0,12,0,0,189,189,20,20,"Yes",192,24,1,0,177,18,188,23
+2024-05-28,"PeaceHealth St. Joseph Medical Center",0,12,0,0,185,185,20,20,"Yes",197,29,1,0,175,18,186,24
+2024-05-18,"PeaceHealth St. John Medical Center",0,0,0,0,75,75,5,5,"Yes",116,19,0,0,69,6,134,22
+2024-05-19,"PeaceHealth St. John Medical Center",0,0,0,0,76,76,7,7,"Yes",119,27,0,0,68,6,130,22
+2024-05-20,"PeaceHealth St. John Medical Center",0,0,0,0,80,80,3,3,"Yes",133,22,0,0,67,7,126,22
+2024-05-21,"PeaceHealth St. John Medical Center",0,0,0,0,74,74,8,8,"Yes",119,21,0,0,67,7,121,22
+2024-05-22,"PeaceHealth St. John Medical Center",0,0,0,0,70,70,9,9,"Yes",135,17,0,0,67,7,123,22
+2024-05-23,"PeaceHealth St. John Medical Center",0,0,0,0,64,64,9,9,"Yes",133,12,0,0,67,7,134,23
+2024-05-24,"PeaceHealth St. John Medical Center",0,0,0,0,63,63,8,8,"Yes",112,20,0,0,68,7,131,23
+2024-05-25,"PeaceHealth St. John Medical Center",0,0,0,0,60,60,9,9,"Yes",116,21,0,0,67,7,130,23
+2024-05-26,"PeaceHealth St. John Medical Center",0,0,0,0,62,62,8,8,"Yes",137,22,0,0,67,7,128,23
+2024-05-27,"PeaceHealth St. John Medical Center",0,0,0,0,62,62,8,8,"Yes",126,34,0,0,67,7,127,23
+2024-05-28,"PeaceHealth St. John Medical Center",0,0,0,0,69,69,6,6,"Yes",154,23,0,0,67,7,121,23
+2024-05-18,"PeaceHealth Southwest Medical Center",0,8,0,0,202,202,39,39,"Yes",180,25,0,0,211,36,203,19
+2024-05-19,"PeaceHealth Southwest Medical Center",1,8,0,0,206,206,34,34,"Yes",188,28,0,0,211,35,199,20
+2024-05-20,"PeaceHealth Southwest Medical Center",1,8,0,0,205,205,36,36,"Yes",223,18,0,0,214,35,204,20
+2024-05-21,"PeaceHealth Southwest Medical Center",0,8,0,0,216,216,35,35,"Yes",183,20,0,0,212,35,189,20
+2024-05-22,"PeaceHealth Southwest Medical Center",0,8,0,0,212,212,36,36,"Yes",205,15,0,0,213,35,188,20
+2024-05-23,"PeaceHealth Southwest Medical Center",0,8,0,0,201,201,37,37,"Yes",198,19,0,0,214,34,211,20
+2024-05-24,"PeaceHealth Southwest Medical Center",0,8,0,0,215,215,38,38,"Yes",231,19,0,0,213,35,206,20
+2024-05-25,"PeaceHealth Southwest Medical Center",0,8,0,0,216,216,42,42,"Yes",172,23,0,0,213,34,203,20
+2024-05-26,"PeaceHealth Southwest Medical Center",0,8,0,0,219,219,38,38,"Yes",186,26,0,0,213,34,199,20
+2024-05-27,"PeaceHealth Southwest Medical Center",0,8,0,0,219,219,42,42,"Yes",200,22,0,0,215,34,204,20
+2024-05-28,"PeaceHealth Southwest Medical Center",0,8,0,0,211,211,37,37,"Yes",217,14,0,0,213,34,190,20
+2024-05-18,"PeaceHealth Peace Island Medical Center",0,0,0,0,0,0,0,0,"Yes",10,1,0,0,1,0,12,2
+2024-05-19,"PeaceHealth Peace Island Medical Center",0,0,0,0,0,0,0,0,"Yes",11,1,0,0,1,0,11,2
+2024-05-20,"PeaceHealth Peace Island Medical Center",0,0,0,0,0,0,0,0,"Yes",17,2,0,0,1,0,11,2
+2024-05-21,"PeaceHealth Peace Island Medical Center",0,0,0,0,1,1,0,0,"Yes",13,0,0,0,1,0,10,2
+2024-05-22,"PeaceHealth Peace Island Medical Center",0,0,0,0,1,1,0,0,"Yes",15,1,0,0,1,0,11,2
+2024-05-23,"PeaceHealth Peace Island Medical Center",0,0,0,0,2,2,0,0,"Yes",12,3,0,0,1,0,11,2
+2024-05-24,"PeaceHealth Peace Island Medical Center",0,0,0,0,2,2,0,0,"Yes",16,1,0,0,1,0,11,2
+2024-05-25,"PeaceHealth Peace Island Medical Center",0,0,0,0,2,2,0,0,"Yes",9,8,0,0,1,0,11,2
+2024-05-26,"PeaceHealth Peace Island Medical Center",0,0,0,0,1,1,0,0,"Yes",10,1,0,0,1,0,11,2
+2024-05-27,"PeaceHealth Peace Island Medical Center",0,0,0,0,1,1,0,0,"Yes",10,3,0,0,1,0,11,2
+2024-05-28,"PeaceHealth Peace Island Medical Center",0,0,0,0,1,1,0,0,"Yes",11,2,0,0,1,0,11,2
+2024-05-18,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,185,195,24,21,"Yes",71,0,0,0,153,17,59,0
+2024-05-18,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,185,195,24,21,"Yes",71,0,0,0,153,17,59,0
+2024-05-19,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,166,175,22,20,"Yes",53,0,0,0,162,17,58,0
+2024-05-19,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,166,175,22,20,"Yes",53,0,0,0,162,17,58,0
+2024-05-20,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,169,178,20,18,"Yes",68,0,0,0,169,17,59,0
+2024-05-20,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,169,178,20,18,"Yes",68,0,0,0,169,17,59,0
+2024-05-21,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,204,210,19,17,"Yes",64,0,0,0,171,17,60,0
+2024-05-21,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,204,210,19,17,"Yes",68,0,0,0,171,17,60,0
+2024-05-22,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,203,210,24,21,"Yes",57,0,0,0,171,17,59,0
+2024-05-23,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,197,207,18,16,"Yes",52,0,0,0,167,17,59,0
+2024-05-23,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,197,207,18,16,"Yes",52,0,0,0,167,17,59,0
+2024-05-24,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,190,200,16,14,"Yes",52,0,0,0,163,17,59,0
+2024-05-25,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,172,181,19,17,"Yes",67,0,0,0,162,17,59,0
+2024-05-26,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,143,151,15,13,"Yes",60,0,0,0,164,17,59,0
+2024-05-27,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,139,146,16,14,"Yes",50,0,0,0,168,17,59,0
+2024-05-27,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,139,146,16,14,"Yes",50,0,0,0,168,17,59,0
+2024-05-28,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,148,156,14,12,"Yes",55,0,0,0,170,17,59,0
+2024-05-29,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,140,147,20,18,"Yes",65,0,0,0,170,17,59,0
+2024-05-29,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,140,147,20,18,"Yes",55,0,0,0,170,17,59,0
+2024-05-29,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,140,147,20,18,"Yes",65,0,0,0,170,17,59,0
+2024-05-29,"VIRGINIA MASON DOWNTOWN MEDICAL CENTER",0,0,0,0,140,147,20,18,"Yes",55,0,0,0,170,17,59,0
+2024-05-18,"Snoqualmie Valley Hospital",0,0,0,0,19,26,0,0,"Yes",12,0,0,0,18,0,14,0
+2024-05-19,"Snoqualmie Valley Hospital",0,0,0,0,19,26,0,0,"Yes",21,0,0,0,18,0,14,0
+2024-05-20,"Snoqualmie Valley Hospital",0,0,0,0,20,26,0,0,"Yes",23,0,0,0,18,0,14,0
+2024-05-21,"Snoqualmie Valley Hospital",0,0,0,0,20,26,0,0,"Yes",12,0,0,0,18,0,14,0
+2024-05-22,"Snoqualmie Valley Hospital",0,0,0,0,22,26,0,0,"Yes",12,0,0,0,18,0,14,0
+2024-05-23,"Snoqualmie Valley Hospital",0,0,0,0,20,26,0,0,"Yes",14,0,0,0,18,0,14,0
+2024-05-24,"Snoqualmie Valley Hospital",0,0,0,0,20,26,0,0,"Yes",13,0,0,0,18,0,14,0
+2024-05-25,"Snoqualmie Valley Hospital",0,0,0,0,19,26,0,0,"Yes",24,0,0,0,18,0,14,0
+2024-05-26,"Snoqualmie Valley Hospital",0,0,0,0,19,26,0,0,"Yes",18,0,0,0,18,0,13,0
+2024-05-27,"Snoqualmie Valley Hospital",0,0,0,0,19,26,0,0,"Yes",15,0,0,0,18,0,13,0
+2024-05-28,"Snoqualmie Valley Hospital",0,0,0,0,18,26,0,0,"Yes",6,0,0,0,19,0,13,0
+2024-05-18,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,200,217,24,15,"Yes",178,19,0,0,214,22,185,25
+2024-05-18,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,200,217,24,15,"Yes",178,19,0,0,214,22,185,25
+2024-05-19,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,204,216,24,15,"Yes",154,23,0,0,211,19,180,23
+2024-05-19,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,204,216,24,15,"Yes",154,23,0,0,211,19,180,23
+2024-05-20,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,216,216,24,24,"Yes",173,18,0,0,209,19,179,24
+2024-05-20,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,216,216,24,24,"Yes",173,18,0,0,209,19,179,24
+2024-05-21,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,216,216,24,24,"Yes",189,25,0,0,212,20,181,24
+2024-05-22,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,210,213,24,17,"Yes",175,23,0,0,212,21,181,24
+2024-05-23,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,217,217,24,24,"Yes",208,24,0,0,212,21,181,24
+2024-05-23,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,217,217,24,24,"Yes",208,24,0,0,212,21,181,24
+2024-05-24,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,217,217,24,24,"Yes",195,19,0,0,212,21,181,24
+2024-05-25,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,206,214,24,13,"Yes",174,23,0,0,212,21,181,24
+2024-05-26,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,190,217,24,13,"Yes",163,25,0,0,212,21,181,24
+2024-05-27,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,217,217,24,20,"Yes",184,23,0,0,211,20,181,24
+2024-05-28,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,212,212,24,22,"Yes",182,21,0,0,212,20,181,24
+2024-05-29,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,215,215,24,24,"Yes",187,29,0,0,211,20,181,24
+2024-05-29,"Franciscan Health St. Michael Medical Center Silverdale",0,0,0,0,215,215,24,24,"Yes",187,29,0,0,211,20,181,24
+2024-05-18,"Franciscan Health St. Joseph Medical Center",0,0,0,0,251,262,48,38,"Yes",116,5,0,0,272,40,115,3
+2024-05-18,"Franciscan Health St. Joseph Medical Center",0,0,0,0,251,262,48,38,"Yes",116,5,0,0,272,40,115,3
+2024-05-19,"Franciscan Health St. Joseph Medical Center",0,0,0,0,243,261,48,39,"Yes",121,2,0,0,267,41,116,3
+2024-05-19,"Franciscan Health St. Joseph Medical Center",0,0,0,0,243,261,48,39,"Yes",121,2,0,0,267,41,116,3
+2024-05-20,"Franciscan Health St. Joseph Medical Center",0,0,0,0,261,261,48,48,"Yes",98,4,0,0,265,41,116,3
+2024-05-20,"Franciscan Health St. Joseph Medical Center",0,0,0,0,261,261,48,48,"Yes",98,4,0,0,265,41,116,3
+2024-05-21,"Franciscan Health St. Joseph Medical Center",0,0,0,0,261,262,48,41,"Yes",128,3,0,0,263,42,110,3
+2024-05-22,"Franciscan Health St. Joseph Medical Center",0,0,0,0,270,290,48,42,"Yes",123,5,0,0,263,41,114,3
+2024-05-23,"Franciscan Health St. Joseph Medical Center",0,0,0,0,260,296,48,46,"Yes",118,3,0,0,265,42,113,3
+2024-05-23,"Franciscan Health St. Joseph Medical Center",0,0,0,0,260,296,48,46,"Yes",118,3,0,0,265,42,113,3
+2024-05-24,"Franciscan Health St. Joseph Medical Center",0,0,0,0,279,295,48,46,"Yes",112,1,0,0,264,42,116,3
+2024-05-25,"Franciscan Health St. Joseph Medical Center",0,0,0,0,256,294,48,44,"Yes",131,1,0,0,264,42,113,3
+2024-05-26,"Franciscan Health St. Joseph Medical Center",0,0,0,0,255,290,48,40,"Yes",123,7,0,0,263,42,116,3
+2024-05-27,"Franciscan Health St. Joseph Medical Center",0,0,0,0,246,291,48,42,"Yes",88,3,0,0,263,42,113,3
+2024-05-28,"Franciscan Health St. Joseph Medical Center",0,0,0,0,254,288,48,37,"Yes",101,2,0,0,263,42,115,3
+2024-05-29,"Franciscan Health St. Joseph Medical Center",0,0,0,0,275,292,48,40,"Yes",118,5,0,0,263,42,113,3
+2024-05-29,"Franciscan Health St. Joseph Medical Center",0,0,0,0,275,292,48,40,"Yes",118,5,0,0,263,42,113,3
+2024-05-18,"Franciscan Health St. Francis Hospital",0,0,0,0,80,82,16,11,"Yes",104,21,0,0,96,14,103,14
+2024-05-18,"Franciscan Health St. Francis Hospital",0,0,0,0,80,82,16,11,"Yes",104,21,0,0,96,14,103,14
+2024-05-19,"Franciscan Health St. Francis Hospital",0,0,0,0,82,82,16,14,"Yes",93,18,0,0,89,14,110,14
+2024-05-19,"Franciscan Health St. Francis Hospital",0,0,0,0,82,82,16,14,"Yes",93,18,0,0,89,14,110,14
+2024-05-20,"Franciscan Health St. Francis Hospital",0,0,0,0,84,84,13,13,"Yes",103,16,0,0,87,14,107,14
+2024-05-20,"Franciscan Health St. Francis Hospital",0,0,0,0,84,84,13,13,"Yes",103,16,0,0,87,14,107,14
+2024-05-21,"Franciscan Health St. Francis Hospital",0,0,0,0,90,90,15,15,"Yes",125,12,0,0,90,14,114,14
+2024-05-22,"Franciscan Health St. Francis Hospital",0,0,0,0,106,106,16,16,"Yes",124,14,0,0,95,14,110,14
+2024-05-23,"Franciscan Health St. Francis Hospital",0,0,0,0,104,106,16,16,"Yes",97,14,0,0,99,14,108,14
+2024-05-23,"Franciscan Health St. Francis Hospital",0,0,0,0,104,106,16,16,"Yes",97,14,0,0,99,14,108,14
+2024-05-24,"Franciscan Health St. Francis Hospital",0,0,0,0,96,106,16,14,"Yes",107,15,0,0,98,14,107,14
+2024-05-25,"Franciscan Health St. Francis Hospital",0,0,0,0,76,106,16,13,"Yes",102,9,0,0,95,14,107,14
+2024-05-26,"Franciscan Health St. Francis Hospital",0,0,0,0,81,106,16,14,"Yes",102,11,0,0,91,14,106,14
+2024-05-27,"Franciscan Health St. Francis Hospital",0,0,0,0,96,106,16,15,"Yes",87,12,0,0,90,14,108,14
+2024-05-28,"Franciscan Health St. Francis Hospital",0,0,0,0,106,106,16,14,"Yes",115,19,0,0,92,14,105,14
+2024-05-29,"Franciscan Health St. Francis Hospital",0,0,0,0,106,106,16,16,"Yes",128,14,0,0,95,14,112,14
+2024-05-29,"Franciscan Health St. Francis Hospital",0,0,0,0,106,106,16,16,"Yes",128,14,0,0,95,14,112,14
+2024-05-18,"Lake Chelan Community Hospital & Clinics",0,0,0,0,6,12,0,0,"Yes",17,1,-1,0,2,0,17,4
+2024-05-19,"Lake Chelan Community Hospital & Clinics",0,0,0,0,7,12,0,0,"Yes",17,7,0,0,2,0,17,4
+2024-05-20,"Lake Chelan Community Hospital & Clinics",0,0,0,0,6,12,0,0,"Yes",22,2,0,0,2,0,16,4
+2024-05-20,"Lake Chelan Community Hospital & Clinics",0,0,0,0,6,12,0,0,"Yes",22,2,0,0,2,0,16,4
+2024-05-21,"Lake Chelan Community Hospital & Clinics",0,0,0,0,2,12,0,0,"Yes",18,2,0,0,3,0,17,4
+2024-05-22,"Lake Chelan Community Hospital & Clinics",1,1,0,0,3,12,0,0,"Yes",19,2,0,0,3,0,16,4
+2024-05-23,"Lake Chelan Community Hospital & Clinics",0,0,0,0,1,12,0,0,"Yes",11,2,0,0,3,0,17,4
+2024-05-24,"Lake Chelan Community Hospital & Clinics",0,0,0,0,1,12,0,0,"Yes",12,3,0,0,3,0,16,4
+2024-05-25,"Lake Chelan Community Hospital & Clinics",0,0,0,0,2,12,0,0,"Yes",23,13,-1,0,3,0,17,4
+2024-05-26,"Lake Chelan Community Hospital & Clinics",0,0,0,0,1,12,0,0,"Yes",20,5,0,0,3,0,16,4
+2024-05-27,"Lake Chelan Community Hospital & Clinics",0,0,0,0,1,12,0,0,"Yes",15,4,0,0,3,0,17,4
+2024-05-28,"Lake Chelan Community Hospital & Clinics",0,0,0,0,2,12,0,0,"Yes",22,3,0,0,3,0,16,4
+2024-05-18,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,16,16,4,4,"Yes",39,1,0,0,12,1,41,5
+2024-05-18,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,16,16,4,4,"Yes",39,1,0,0,12,1,41,5
+2024-05-19,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,14,14,4,1,"Yes",22,5,0,0,13,1,41,5
+2024-05-19,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,14,14,4,1,"Yes",22,5,0,0,13,1,41,5
+2024-05-20,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,15,17,4,1,"Yes",37,4,0,0,13,2,41,5
+2024-05-20,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,15,17,4,1,"Yes",37,4,0,0,13,2,41,5
+2024-05-21,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,20,20,4,4,"Yes",40,5,0,0,14,2,41,5
+2024-05-22,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,20,20,4,0,"Yes",42,4,0,0,14,2,41,5
+2024-05-23,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,15,22,4,3,"Yes",37,7,0,0,14,2,41,5
+2024-05-23,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,15,22,4,3,"Yes",37,7,0,0,14,2,41,5
+2024-05-24,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,20,20,4,4,"Yes",43,9,0,0,14,2,41,5
+2024-05-25,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,18,18,4,0,"Yes",33,3,0,0,14,2,41,5
+2024-05-26,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,18,21,4,1,"Yes",21,5,0,0,14,2,41,5
+2024-05-27,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,20,20,4,4,"Yes",31,4,0,0,14,2,41,5
+2024-05-28,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,17,17,4,1,"Yes",33,8,0,0,14,2,41,5
+2024-05-29,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,11,16,4,1,"Yes",26,5,0,0,14,2,41,5
+2024-05-29,"Franciscan Health St. Elizabeth Hospital",0,0,0,0,11,16,4,1,"Yes",26,5,0,0,14,2,41,5
+2024-05-18,"Franciscan Health St. Clare Hospital",0,0,0,0,87,99,10,9,"Yes",78,9,0,0,93,8,80,6
+2024-05-18,"Franciscan Health St. Clare Hospital",0,0,0,0,87,99,10,9,"Yes",78,9,0,0,93,8,80,6
+2024-05-19,"Franciscan Health St. Clare Hospital",0,0,0,0,85,99,10,9,"Yes",72,3,0,0,93,9,84,7
+2024-05-19,"Franciscan Health St. Clare Hospital",0,0,0,0,85,99,10,9,"Yes",72,3,0,0,93,9,84,7
+2024-05-20,"Franciscan Health St. Clare Hospital",0,0,0,0,99,99,10,10,"Yes",72,8,0,0,93,8,80,6
+2024-05-20,"Franciscan Health St. Clare Hospital",0,0,0,0,99,99,10,10,"Yes",72,8,0,0,93,8,80,6
+2024-05-21,"Franciscan Health St. Clare Hospital",0,0,0,0,96,98,10,8,"Yes",82,5,0,0,93,9,84,6
+2024-05-22,"Franciscan Health St. Clare Hospital",0,0,0,0,88,98,10,9,"Yes",81,5,0,0,92,9,83,6
+2024-05-23,"Franciscan Health St. Clare Hospital",0,0,0,0,91,98,10,8,"Yes",74,3,0,0,92,9,84,6
+2024-05-23,"Franciscan Health St. Clare Hospital",0,0,0,0,91,98,10,8,"Yes",74,3,0,0,92,9,84,6
+2024-05-24,"Franciscan Health St. Clare Hospital",0,0,0,0,87,98,10,7,"Yes",72,9,0,0,92,9,82,6
+2024-05-25,"Franciscan Health St. Clare Hospital",0,0,0,0,91,98,10,9,"Yes",85,3,0,0,92,9,83,6
+2024-05-26,"Franciscan Health St. Clare Hospital",0,0,0,0,90,98,10,7,"Yes",69,12,0,0,92,9,83,6
+2024-05-27,"Franciscan Health St. Clare Hospital",0,0,0,0,96,96,10,10,"Yes",80,5,0,0,92,9,83,6
+2024-05-28,"Franciscan Health St. Clare Hospital",0,0,0,0,95,97,10,9,"Yes",92,5,0,0,92,9,82,6
+2024-05-29,"Franciscan Health St. Clare Hospital",0,0,0,0,95,98,10,9,"Yes",91,7,0,0,92,9,84,6
+2024-05-29,"Franciscan Health St. Clare Hospital",0,0,0,0,95,98,10,9,"Yes",91,7,0,0,92,9,84,6
+2024-05-18,"Franciscan Health St. Anne Hospital",0,0,0,0,82,82,6,6,"Yes",88,13,0,0,69,8,93,14
+2024-05-18,"Franciscan Health St. Anne Hospital",0,0,0,0,82,82,6,6,"Yes",88,13,0,0,69,8,93,14
+2024-05-19,"Franciscan Health St. Anne Hospital",0,0,0,0,80,80,6,6,"Yes",88,12,0,0,70,7,94,14
+2024-05-19,"Franciscan Health St. Anne Hospital",0,0,0,0,80,80,6,6,"Yes",88,12,0,0,70,7,94,14
+2024-05-20,"Franciscan Health St. Anne Hospital",0,0,0,0,90,90,4,4,"Yes",106,11,0,0,70,7,94,14
+2024-05-20,"Franciscan Health St. Anne Hospital",0,0,0,0,90,90,4,4,"Yes",106,11,0,0,70,7,94,14
+2024-05-21,"Franciscan Health St. Anne Hospital",0,0,0,0,94,94,4,4,"Yes",107,11,0,0,70,8,94,14
+2024-05-22,"Franciscan Health St. Anne Hospital",0,0,0,0,84,84,4,4,"Yes",106,9,0,0,71,8,94,14
+2024-05-23,"Franciscan Health St. Anne Hospital",0,0,0,0,69,69,10,10,"Yes",96,13,0,0,71,8,94,14
+2024-05-23,"Franciscan Health St. Anne Hospital",0,0,0,0,69,69,10,10,"Yes",96,13,0,0,71,8,94,14
+2024-05-24,"Franciscan Health St. Anne Hospital",0,0,0,0,71,71,10,10,"Yes",105,18,0,0,71,8,94,14
+2024-05-25,"Franciscan Health St. Anne Hospital",0,0,0,0,68,68,10,6,"Yes",107,10,0,0,72,8,94,14
+2024-05-26,"Franciscan Health St. Anne Hospital",0,0,0,0,64,66,10,4,"Yes",81,9,0,0,72,7,94,14
+2024-05-27,"Franciscan Health St. Anne Hospital",0,0,0,0,59,59,10,10,"Yes",88,12,0,0,72,7,94,14
+2024-05-28,"Franciscan Health St. Anne Hospital",0,0,0,0,64,64,10,10,"Yes",93,13,0,0,72,8,94,14
+2024-05-29,"Franciscan Health St. Anne Hospital",0,0,0,0,68,68,10,10,"Yes",91,18,0,0,72,8,94,14
+2024-05-29,"Franciscan Health St. Anne Hospital",0,0,0,0,68,68,10,10,"Yes",91,18,0,0,72,8,94,14
+2024-05-18,"Franciscan Health St. Anthony Hospital",0,0,0,0,61,98,16,15,"Yes",108,8,0,0,78,13,104,9
+2024-05-18,"Franciscan Health St. Anthony Hospital",0,0,0,0,61,98,16,15,"Yes",108,8,0,0,78,13,104,9
+2024-05-19,"Franciscan Health St. Anthony Hospital",0,0,0,0,64,98,16,15,"Yes",97,7,0,0,75,13,102,8
+2024-05-19,"Franciscan Health St. Anthony Hospital",0,0,0,0,64,98,16,15,"Yes",97,7,0,0,75,13,102,8
+2024-05-20,"Franciscan Health St. Anthony Hospital",0,0,0,0,76,89,16,13,"Yes",79,7,0,0,74,13,102,8
+2024-05-20,"Franciscan Health St. Anthony Hospital",0,0,0,0,76,89,16,13,"Yes",79,7,0,0,74,13,102,8
+2024-05-21,"Franciscan Health St. Anthony Hospital",0,0,0,0,89,93,16,16,"Yes",107,12,0,0,80,13,101,8
+2024-05-22,"Franciscan Health St. Anthony Hospital",0,0,0,0,88,93,16,15,"Yes",104,5,0,0,79,13,101,7
+2024-05-23,"Franciscan Health St. Anthony Hospital",0,0,0,0,78,96,16,12,"Yes",101,4,0,0,77,13,102,8
+2024-05-23,"Franciscan Health St. Anthony Hospital",0,0,0,0,78,96,16,12,"Yes",101,4,0,0,77,13,102,8
+2024-05-24,"Franciscan Health St. Anthony Hospital",0,0,0,0,80,97,16,14,"Yes",108,9,0,0,77,13,102,8
+2024-05-25,"Franciscan Health St. Anthony Hospital",0,0,0,0,65,99,16,14,"Yes",108,3,0,0,78,13,102,8
+2024-05-26,"Franciscan Health St. Anthony Hospital",0,0,0,0,62,97,16,12,"Yes",100,9,0,0,76,13,102,7
+2024-05-27,"Franciscan Health St. Anthony Hospital",0,0,0,0,81,102,16,12,"Yes",95,6,0,0,76,13,102,8
+2024-05-28,"Franciscan Health St. Anthony Hospital",0,0,0,0,81,99,16,12,"Yes",96,6,0,0,79,13,102,8
+2024-05-29,"Franciscan Health St. Anthony Hospital",0,0,0,0,78,97,16,14,"Yes",107,13,0,0,78,13,102,8
+2024-05-29,"Franciscan Health St. Anthony Hospital",0,0,0,0,78,97,16,14,"Yes",107,13,0,0,78,13,102,8
+2024-05-18,"Lourdes Medical Center",0,0,0,0,12,17,0,0,"Yes",40,9,0,0,10,1,47,16
+2024-05-19,"Lourdes Medical Center",0,0,0,0,12,17,0,0,"Yes",51,22,0,0,10,1,50,16
+2024-05-19,"Lourdes Medical Center",0,0,0,0,9,17,0,0,"Yes",51,16,0,0,10,1,50,16
+2024-05-20,"Lourdes Medical Center",0,0,0,0,9,17,0,0,"Yes",51,16,0,0,11,1,48,17
+2024-05-21,"Lourdes Medical Center",0,0,0,0,13,17,0,0,"Yes",54,14,0,0,11,0,49,16
+2024-05-22,"Lourdes Medical Center",0,0,0,0,10,17,0,0,"Yes",46,16,0,0,11,0,46,15
+2024-05-23,"Lourdes Medical Center",0,0,0,0,11,17,0,0,"Yes",45,20,0,0,11,0,50,16
+2024-05-24,"Lourdes Medical Center",0,0,0,0,9,17,2,2,"Yes",64,17,0,0,11,0,47,16
+2024-05-25,"Lourdes Medical Center",0,0,0,0,10,17,2,2,"Yes",50,23,0,0,11,0,47,16
+2024-05-26,"Lourdes Medical Center",0,0,0,0,9,17,2,2,"Yes",50,17,0,0,11,1,49,16
+2024-05-27,"Lourdes Medical Center",0,0,0,0,12,17,0,0,"Yes",37,11,0,0,11,0,48,16
+2024-05-28,"Lourdes Medical Center",0,0,0,0,12,17,0,0,"Yes",64,16,0,0,11,0,48,16
+2024-05-29,"Lourdes Medical Center",0,0,0,0,10,17,1,1,"Yes",46,16,0,0,11,0,46,15
+2024-05-18,"Overlake Medical Center",0,0,0,0,211,245,32,23,"Yes",128,0,0,0,213,27,149,0
+2024-05-19,"Overlake Medical Center",0,0,0,0,188,245,32,25,"Yes",138,0,0,0,212,25,147,0
+2024-05-20,"Overlake Medical Center",0,0,0,0,196,245,32,22,"Yes",149,0,0,0,206,24,148,0
+2024-05-21,"Overlake Medical Center",0,0,0,0,203,245,32,27,"Yes",172,0,0,0,198,23,145,0
+2024-05-22,"Overlake Medical Center",0,0,0,0,216,245,32,26,"Yes",148,0,0,0,199,23,146,0
+2024-05-23,"Overlake Medical Center",0,0,0,0,221,245,32,26,"Yes",149,0,0,0,204,23,149,0
+2024-05-24,"Overlake Medical Center",0,0,0,0,225,245,32,25,"Yes",151,0,0,0,208,23,149,0
+2024-05-25,"Overlake Medical Center",0,0,0,0,211,245,32,25,"Yes",155,0,0,0,208,23,148,0
+2024-05-26,"Overlake Medical Center",0,0,0,0,202,245,32,24,"Yes",125,0,0,0,210,23,149,0
+2024-05-27,"Overlake Medical Center",0,0,0,0,197,245,32,21,"Yes",129,0,0,0,205,23,149,0
+2024-05-28,"Overlake Medical Center",0,0,0,0,203,245,32,28,"Yes",144,0,0,0,198,23,147,0
+2024-05-29,"Overlake Medical Center",0,0,0,0,221,245,32,30,"Yes",154,0,0,0,200,23,147,0
+2024-05-18,"UW Medical Center - Northwest",0,0,0,0,115,160,15,10,"Yes",103,2,0,0,134,13,105,3
+2024-05-18,"UW Medical Center - Northwest",0,0,0,0,115,160,15,10,"Yes",103,2,0,0,134,13,105,3
+2024-05-19,"UW Medical Center - Northwest",0,0,0,0,113,160,15,10,"Yes",88,4,0,0,133,13,108,3
+2024-05-20,"UW Medical Center - Northwest",0,0,0,0,121,160,15,14,"Yes",96,2,0,0,132,13,105,3
+2024-05-21,"UW Medical Center - Northwest",0,0,0,0,130,160,15,13,"Yes",109,4,0,0,131,12,105,3
+2024-05-22,"UW Medical Center - Northwest",0,0,0,0,132,160,15,14,"Yes",105,2,0,0,130,12,102,3
+2024-05-22,"UW Medical Center - Northwest",0,0,0,0,132,160,15,14,"Yes",105,2,0,0,130,12,102,3
+2024-05-23,"UW Medical Center - Northwest",0,0,0,0,117,160,15,14,"Yes",116,3,0,0,130,12,103,3
+2024-05-24,"UW Medical Center - Northwest",0,0,0,0,127,160,15,13,"Yes",107,1,0,0,130,12,104,3
+2024-05-25,"UW Medical Center - Northwest",0,0,0,0,131,160,15,15,"Yes",122,3,0,0,132,12,102,3
+2024-05-26,"UW Medical Center - Northwest",0,0,0,0,140,160,15,14,"Yes",100,3,0,0,131,12,103,3
+2024-05-27,"UW Medical Center - Northwest",0,0,0,0,144,160,15,13,"Yes",87,6,0,0,131,12,102,3
+2024-05-28,"UW Medical Center - Northwest",0,0,0,0,141,160,15,14,"Yes",107,4,0,0,130,12,103,3
+2024-05-29,"UW Medical Center - Northwest",0,0,0,0,136,160,15,15,"Yes",122,6,0,0,130,12,104,3
+2024-05-18,"Mid-Valley Hospital",0,0,0,0,7,15,0,0,"Yes",27,2,-1,0,6,0,27,5
+2024-05-19,"Mid-Valley Hospital",0,0,0,0,7,15,0,0,"Yes",22,7,-1,0,7,0,27,5
+2024-05-20,"Mid-Valley Hospital",0,0,0,0,9,15,0,0,"Yes",22,5,0,0,7,0,27,5
+2024-05-21,"Mid-Valley Hospital",0,0,0,0,9,15,0,0,"Yes",37,6,0,0,7,0,27,5
+2024-05-22,"Mid-Valley Hospital",0,0,0,0,9,15,0,0,"Yes",28,8,0,0,7,0,27,5
+2024-05-23,"Mid-Valley Hospital",0,0,0,0,9,15,0,0,"Yes",17,4,0,0,7,0,27,5
+2024-05-24,"Mid-Valley Hospital",0,0,0,0,8,15,0,0,"Yes",20,8,0,0,7,0,27,5
+2024-05-25,"Mid-Valley Hospital",0,0,0,0,5,15,0,0,"Yes",26,4,0,0,7,0,27,5
+2024-05-26,"Mid-Valley Hospital",0,0,0,0,8,15,0,0,"Yes",33,2,0,0,7,0,27,5
+2024-05-27,"Mid-Valley Hospital",0,0,0,0,7,15,0,0,"Yes",30,8,0,0,7,0,27,5
+2024-05-28,"Mid-Valley Hospital",0,0,0,0,4,15,0,0,"Yes",31,4,0,0,7,0,27,5
+2024-05-29,"Mid-Valley Hospital",0,0,0,0,6,15,0,0,"Yes",35,8,0,0,7,0,27,5
+2024-05-18,"UW Medical Center - Montlake",1,1,1,1,296,296,79,68,"Yes",88,2,1,1,275,63,89,1
+2024-05-19,"UW Medical Center - Montlake",1,1,0,0,272,291,79,66,"Yes",76,2,1,1,284,65,93,1
+2024-05-20,"UW Medical Center - Montlake",1,1,1,1,276,291,79,67,"Yes",94,1,1,1,289,66,88,1
+2024-05-21,"UW Medical Center - Montlake",1,1,1,1,298,298,79,75,"Yes",102,1,1,1,287,63,90,1
+2024-05-22,"UW Medical Center - Montlake",1,1,1,1,303,303,79,75,"Yes",93,1,1,1,285,62,90,1
+2024-05-23,"UW Medical Center - Montlake",5,5,1,1,325,325,79,76,"Yes",94,0,1,1,286,62,91,1
+2024-05-24,"UW Medical Center - Montlake",1,1,1,1,302,302,79,70,"Yes",95,1,1,0,286,62,90,1
+2024-05-25,"UW Medical Center - Montlake",1,1,1,1,295,295,79,76,"Yes",83,1,1,0,289,63,91,1
+2024-05-26,"UW Medical Center - Montlake",1,1,1,1,276,291,79,64,"Yes",80,0,1,1,287,63,90,1
+2024-05-27,"UW Medical Center - Montlake",1,1,1,1,258,291,79,59,"Yes",96,4,1,1,287,64,91,1
+2024-05-28,"UW Medical Center - Montlake",1,1,1,1,254,291,79,56,"Yes",90,4,1,1,285,63,90,1
+2024-05-29,"UW Medical Center - Montlake",1,1,1,1,258,291,79,57,"Yes",93,0,1,1,283,63,91,1
+2024-05-18,"Harborview Medical Center",3,12,8,0,309,330,83,82,"Yes",172,2,7,0,321,76,153,4
+2024-05-18,"Harborview Medical Center",3,12,8,0,309,330,83,82,"Yes",172,2,7,0,321,76,153,4
+2024-05-19,"Harborview Medical Center",4,12,8,0,301,330,83,77,"Yes",168,5,6,0,319,76,151,4
+2024-05-20,"Harborview Medical Center",5,12,8,2,323,330,83,75,"Yes",137,7,6,0,319,76,148,4
+2024-05-21,"Harborview Medical Center",7,12,8,2,335,335,83,79,"Yes",165,11,6,0,317,76,150,4
+2024-05-22,"Harborview Medical Center",8,12,8,2,334,334,83,75,"Yes",141,3,6,0,320,76,151,4
+2024-05-23,"Harborview Medical Center",4,12,8,1,324,330,83,77,"Yes",153,5,6,0,321,76,152,4
+2024-05-24,"Harborview Medical Center",5,12,8,0,312,330,83,77,"Yes",163,3,6,0,321,76,150,4
+2024-05-25,"Harborview Medical Center",5,12,8,1,317,330,83,77,"Yes",146,5,6,0,320,76,152,4
+2024-05-26,"Harborview Medical Center",6,12,8,0,312,330,83,76,"Yes",141,8,6,0,319,76,151,4
+2024-05-27,"Harborview Medical Center",7,12,8,0,325,330,83,76,"Yes",151,3,6,0,320,76,151,4
+2024-05-28,"Harborview Medical Center",7,12,8,1,323,330,83,70,"Yes",158,6,6,0,319,76,152,4
+2024-05-29,"Harborview Medical Center",8,12,8,0,324,330,83,77,"Yes",139,3,6,0,320,76,152,4
+2024-05-18,"Olympic Medical Center",1,1,0,0,48,48,3,3,"Yes",74,5,0,0,47,1,66,7
+2024-05-19,"Olympic Medical Center",0,0,0,0,47,48,3,3,"Yes",68,10,0,0,44,1,66,7
+2024-05-20,"Olympic Medical Center",0,0,0,0,51,55,3,3,"Yes",58,6,0,0,41,2,66,7
+2024-05-21,"Olympic Medical Center",0,0,0,0,50,51,3,3,"Yes",74,8,0,0,39,2,65,7
+2024-05-22,"Olympic Medical Center",0,0,0,0,48,54,1,1,"Yes",72,13,0,0,42,2,66,7
+2024-05-23,"Olympic Medical Center",0,0,0,0,40,48,2,2,"Yes",66,12,0,0,41,2,65,7
+2024-05-24,"Olympic Medical Center",1,1,0,0,43,48,5,5,"Yes",71,11,0,0,43,2,66,7
+2024-05-25,"Olympic Medical Center",0,0,0,0,32,37,3,3,"Yes",71,5,0,0,41,2,66,7
+2024-05-26,"Olympic Medical Center",0,0,0,0,34,40,3,3,"Yes",62,11,0,0,41,2,66,7
+2024-05-27,"Olympic Medical Center",1,1,0,0,48,48,3,3,"Yes",65,7,0,0,40,2,66,7
+2024-05-28,"Olympic Medical Center",0,0,0,0,42,47,1,1,"Yes",58,5,0,0,40,2,66,7
+2024-05-29,"Olympic Medical Center",0,0,0,0,54,58,1,1,"Yes",70,3,0,0,41,2,66,7
+2024-05-18,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",7,3,-1,0,3,0,8,2
+2024-05-19,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",10,2,0,0,3,0,8,2
+2024-05-20,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",10,4,0,0,3,0,8,2
+2024-05-21,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",11,4,0,0,3,0,8,2
+2024-05-22,"Three Rivers Hospital",0,0,0,0,1,6,0,0,"Yes",8,5,0,0,3,0,8,2
+2024-05-23,"Three Rivers Hospital",0,0,0,0,1,6,0,0,"Yes",6,6,0,0,3,0,8,2
+2024-05-24,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",7,3,0,0,3,0,8,2
+2024-05-25,"Three Rivers Hospital",0,0,0,0,2,6,0,0,"Yes",8,4,0,0,3,0,8,2
+2024-05-26,"Three Rivers Hospital",0,0,0,0,3,6,0,0,"Yes",12,3,0,0,3,0,8,2
+2024-05-27,"Three Rivers Hospital",0,0,0,0,4,6,0,0,"Yes",10,2,0,0,3,0,8,2
+2024-05-27,"Three Rivers Hospital",0,0,0,0,4,6,0,0,"Yes",11,2,0,0,3,0,8,2
+2024-05-28,"Three Rivers Hospital",0,0,0,0,3,6,0,0,"Yes",12,2,0,0,3,0,8,2
+2024-05-29,"Three Rivers Hospital",0,0,0,0,3,6,0,0,"Yes",5,2,0,0,3,0,8,2
+2024-05-18,"Coulee Medical Center",0,0,0,0,11,25,0,0,"Yes",12,2,0,0,13,0,11,2
+2024-05-19,"Coulee Medical Center",0,0,0,0,10,25,0,0,"Yes",12,1,0,0,12,0,11,3
+2024-05-20,"Coulee Medical Center",0,0,0,0,11,25,0,0,"Yes",10,4,0,0,12,0,11,1
+2024-05-20,"Coulee Medical Center",0,0,0,0,10,25,0,0,"Yes",12,1,0,0,12,0,11,1
+2024-05-21,"Coulee Medical Center",0,0,0,0,10,25,0,0,"Yes",6,4,0,0,11,0,11,3
+2024-05-22,"Coulee Medical Center",0,0,0,0,13,25,0,0,"Yes",14,1,0,0,11,0,11,2
+2024-05-23,"Coulee Medical Center",0,0,0,0,11,25,0,0,"Yes",13,2,0,0,11,0,11,2
+2024-05-24,"Coulee Medical Center",0,0,0,0,10,25,0,0,"Yes",15,1,0,0,11,0,11,2
+2024-05-25,"Coulee Medical Center",0,0,0,0,9,25,0,0,"Yes",16,3,0,0,11,0,11,2
+2024-05-26,"Coulee Medical Center",0,0,0,0,10,25,0,0,"Yes",11,4,0,0,11,0,11,2
+2024-05-27,"Coulee Medical Center",0,0,0,0,11,25,0,0,"Yes",16,10,0,0,11,0,11,2
+2024-05-28,"Coulee Medical Center",0,0,0,0,13,25,0,0,"Yes",12,2,0,0,11,0,11,2
+2024-05-29,"Coulee Medical Center",0,0,0,0,14,25,0,0,"Yes",15,10,0,0,11,0,11,2
+2024-05-18,"Prosser Memorial Hospital",0,4,0,0,17,21,0,0,"Yes",35,25,0,0,15,0,38,17
+2024-05-19,"Prosser Memorial Hospital",0,4,0,0,17,21,0,0,"Yes",41,21,0,0,15,0,40,16
+2024-05-20,"Prosser Memorial Hospital",0,4,0,0,13,21,0,0,"Yes",39,16,0,0,14,0,38,16
+2024-05-21,"Prosser Memorial Hospital",0,4,0,0,12,21,0,0,"Yes",40,19,0,0,13,0,39,16
+2024-05-22,"Prosser Memorial Hospital",0,4,0,0,16,21,0,0,"Yes",44,11,0,0,13,0,39,16
+2024-05-23,"Prosser Memorial Hospital",0,4,0,0,14,21,0,0,"Yes",52,19,0,0,14,0,38,16
+2024-05-24,"Prosser Memorial Hospital",0,4,0,0,17,21,0,0,"Yes",39,13,0,0,14,0,41,16
+2024-05-25,"Prosser Memorial Hospital",0,4,0,0,15,21,0,0,"Yes",31,9,0,0,14,0,40,16
+2024-05-26,"Prosser Memorial Hospital",0,4,0,0,15,21,0,0,"Yes",29,12,0,0,13,0,40,16
+2024-05-27,"Prosser Memorial Hospital",0,4,0,0,11,21,0,0,"Yes",30,18,0,0,13,0,40,16
+2024-05-28,"Prosser Memorial Hospital",0,4,0,0,13,21,0,0,"Yes",34,14,0,0,13,0,40,16
+2024-05-28,"Prosser Memorial Hospital",0,4,0,0,15,21,0,0,"Yes",29,12,0,0,13,0,40,16
+2024-05-29,"Prosser Memorial Hospital",0,4,0,0,17,21,0,0,"Yes",52,26,0,0,13,0,40,16
+2024-05-18,"Forks Community Hospital",0,1,0,0,3,11,0,0,"Yes",11,2,0,0,6,0,10,2
+2024-05-18,"Forks Community Hospital",0,1,0,0,3,11,0,0,"Yes",6,1,0,0,6,0,10,2
+2024-05-19,"Forks Community Hospital",0,1,0,0,4,11,0,0,"Yes",6,1,0,0,6,0,10,2
+2024-05-20,"Forks Community Hospital",0,1,0,0,4,11,0,0,"Yes",9,0,0,0,6,0,10,2
+2024-05-21,"Forks Community Hospital",0,1,0,0,5,11,0,0,"Yes",10,5,0,0,5,0,10,2
+2024-05-22,"Forks Community Hospital",0,1,0,0,6,11,0,0,"Yes",7,2,0,0,5,0,10,2
+2024-05-23,"Forks Community Hospital",0,1,0,0,5,11,0,0,"Yes",10,8,0,0,5,0,10,2
+2024-05-24,"Forks Community Hospital",0,1,0,0,4,11,0,0,"Yes",5,3,0,0,5,0,10,2
+2024-05-25,"Forks Community Hospital",0,1,0,0,5,11,0,0,"Yes",9,3,0,0,5,0,10,2
+2024-05-25,"Forks Community Hospital",0,1,0,0,5,11,0,0,"Yes",9,3,0,0,5,0,10,2
+2024-05-26,"Forks Community Hospital",0,1,0,0,6,11,0,0,"Yes",14,1,0,0,5,0,10,2
+2024-05-27,"Forks Community Hospital",0,1,0,0,6,11,0,0,"Yes",13,1,0,0,5,0,10,2
+2024-05-27,"Forks Community Hospital",0,1,0,0,6,11,0,0,"Yes",13,1,0,0,5,0,10,2
+2024-05-27,"Forks Community Hospital",0,1,0,0,6,11,0,0,"Yes",13,1,0,0,5,0,10,2
+2024-05-28,"Forks Community Hospital",0,1,0,0,5,11,0,0,"Yes",15,2,0,0,5,0,10,2
+2024-05-29,"Forks Community Hospital",0,1,0,0,7,11,0,0,"Yes",12,5,0,0,5,0,10,2
+2024-05-18,"Kaiser Permanente Central Hospital",0,0,0,0,5,11,0,0,"Yes",100,13,0,0,8,0,111,10
+2024-05-19,"Kaiser Permanente Central Hospital",0,0,0,0,4,13,0,0,"Yes",90,8,0,0,8,0,114,10
+2024-05-20,"Kaiser Permanente Central Hospital",0,0,0,0,2,8,0,0,"Yes",98,7,0,0,8,0,111,10
+2024-05-21,"Kaiser Permanente Central Hospital",0,0,0,0,6,12,0,0,"Yes",120,14,0,0,8,0,105,10
+2024-05-22,"Kaiser Permanente Central Hospital",0,0,0,0,13,13,0,0,"Yes",116,8,0,0,7,0,104,10
+2024-05-23,"Kaiser Permanente Central Hospital",0,0,0,0,12,13,0,0,"Yes",110,11,0,0,7,0,112,10
+2024-05-24,"Kaiser Permanente Central Hospital",0,0,0,0,11,17,0,0,"Yes",119,5,0,0,8,0,113,10
+2024-05-25,"Kaiser Permanente Central Hospital",0,0,0,0,9,13,0,0,"Yes",126,13,0,0,7,0,110,10
+2024-05-26,"Kaiser Permanente Central Hospital",0,0,0,0,10,10,0,0,"Yes",116,8,0,0,7,0,113,10
+2024-05-27,"Kaiser Permanente Central Hospital",0,0,0,0,6,17,0,0,"Yes",98,16,0,0,7,0,112,10
+2024-05-28,"Kaiser Permanente Central Hospital",0,0,0,0,4,13,0,0,"Yes",103,10,0,0,7,0,107,10
+2024-05-29,"Kaiser Permanente Central Hospital",0,0,0,0,10,13,0,0,"Yes",125,12,0,0,7,0,105,10
+2024-05-18,"Ocean Beach Hospital",0,0,0,0,6,8,0,0,"Yes",15,2,0,0,3,0,19,1
+2024-05-19,"Ocean Beach Hospital",0,0,0,0,6,8,0,0,"Yes",24,1,0,0,3,0,18,1
+2024-05-20,"Ocean Beach Hospital",0,0,0,0,6,8,0,0,"Yes",12,2,0,0,3,0,18,1
+2024-05-21,"Ocean Beach Hospital",0,0,0,0,3,8,0,0,"Yes",18,1,0,0,3,0,18,1
+2024-05-21,"Ocean Beach Hospital",0,0,0,0,5,8,0,0,"Yes",18,1,0,0,3,0,18,1
+2024-05-22,"Ocean Beach Hospital",0,0,0,0,3,8,0,0,"Yes",19,2,0,0,3,0,18,1
+2024-05-23,"Ocean Beach Hospital",0,0,0,0,3,8,0,0,"Yes",21,0,0,0,4,0,18,1
+2024-05-24,"Ocean Beach Hospital",0,0,0,0,5,8,0,0,"Yes",18,1,0,0,4,0,18,1
+2024-05-25,"Ocean Beach Hospital",0,0,0,0,5,8,0,0,"Yes",21,1,0,0,4,0,18,1
+2024-05-26,"Ocean Beach Hospital",0,0,0,0,4,8,0,0,"Yes",15,2,0,0,4,0,18,1
+2024-05-27,"Ocean Beach Hospital",0,0,0,0,4,8,0,0,"Yes",22,4,0,0,4,0,18,1
+2024-05-28,"Ocean Beach Hospital",0,0,0,0,4,8,0,0,"Yes",16,2,0,0,4,0,18,1
+2024-05-29,"Ocean Beach Hospital",0,0,0,0,3,8,0,0,"Yes",24,1,0,0,4,0,18,1
+2024-05-18,"Quincy Valley Medical Center",0,0,0,0,5,5,0,0,"Yes",9,4,0,0,0,0,6,2
+2024-05-19,"Quincy Valley Medical Center",0,0,0,0,5,5,0,0,"Yes",7,9,0,0,0,0,7,2
+2024-05-20,"Quincy Valley Medical Center",0,0,0,0,4,5,0,0,"Yes",5,3,0,0,0,0,7,2
+2024-05-21,"Quincy Valley Medical Center",0,0,0,0,2,5,0,0,"Yes",7,3,0,0,0,0,7,2
+2024-05-22,"Quincy Valley Medical Center",0,0,0,0,1,5,0,0,"Yes",12,2,0,0,0,0,7,2
+2024-05-23,"Quincy Valley Medical Center",0,0,0,0,1,5,0,0,"Yes",4,6,0,0,0,0,7,2
+2024-05-24,"Quincy Valley Medical Center",0,0,0,0,0,5,0,0,"Yes",7,1,0,0,0,0,7,2
+2024-05-25,"Quincy Valley Medical Center",0,0,0,0,0,5,0,0,"Yes",6,2,0,0,0,0,7,2
+2024-05-26,"Quincy Valley Medical Center",0,0,0,0,0,5,0,0,"Yes",14,3,0,0,0,0,7,2
+2024-05-27,"Quincy Valley Medical Center",0,0,0,0,1,5,0,0,"Yes",8,2,0,0,0,0,7,2
+2024-05-28,"Quincy Valley Medical Center",0,0,0,0,1,5,0,0,"Yes",8,1,0,0,0,0,7,2
+2024-05-29,"Quincy Valley Medical Center",0,0,0,0,0,5,0,0,"Yes",3,3,0,0,0,0,7,2
+2024-05-18,"Odessa Memorial Healthcare Center",0,0,0,0,3,8,0,0,"Yes",1,0,0,0,0,0,1,0
+2024-05-18,"Odessa Memorial Healthcare Center",0,0,0,0,3,8,0,0,"Yes",1,0,0,0,0,0,1,0
+2024-05-19,"Odessa Memorial Healthcare Center",0,0,0,0,3,8,0,0,"Yes",1,1,0,0,0,0,1,0
+2024-05-20,"Odessa Memorial Healthcare Center",0,0,0,0,3,8,0,0,"Yes",4,0,0,0,0,0,1,0
+2024-05-21,"Odessa Memorial Healthcare Center",0,0,0,0,2,8,0,0,"Yes",0,1,0,0,0,0,1,0
+2024-05-21,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",0,1,0,0,0,0,1,0
+2024-05-22,"Odessa Memorial Healthcare Center",0,0,0,0,2,8,0,0,"Yes",0,2,0,0,0,0,1,0
+2024-05-22,"Odessa Memorial Healthcare Center",0,0,0,0,2,8,0,0,"Yes",1,1,0,0,0,0,1,0
+2024-05-23,"Odessa Memorial Healthcare Center",0,0,0,0,1,8,0,0,"Yes",2,2,0,0,0,0,1,0
+2024-05-24,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",0,0,0,0,0,0,1,0
+2024-05-25,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",3,0,0,0,0,0,1,0
+2024-05-26,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",4,0,0,0,0,0,1,0
+2024-05-27,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",4,0,0,0,0,0,1,0
+2024-05-28,"Odessa Memorial Healthcare Center",0,0,0,0,0,8,0,0,"Yes",1,0,0,0,0,0,1,0
+2024-05-18,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",8,1,0,0,0,0,10,2
+2024-05-19,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",9,3,0,0,0,0,10,2
+2024-05-20,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",10,4,0,0,0,0,10,2
+2024-05-21,"Columbia Basin Hospital",0,0,0,0,1,2,0,0,"Yes",8,2,0,0,0,0,10,2
+2024-05-22,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",5,2,0,0,0,0,10,2
+2024-05-23,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",9,3,0,0,0,0,10,2
+2024-05-24,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",10,2,0,0,0,0,10,2
+2024-05-25,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",8,3,0,0,0,0,10,2
+2024-05-26,"Columbia Basin Hospital",0,0,0,0,1,2,0,0,"Yes",8,2,0,0,0,0,10,2
+2024-05-27,"Columbia Basin Hospital",0,0,0,0,1,2,0,0,"Yes",13,1,0,0,0,0,10,2
+2024-05-28,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",13,1,0,0,0,0,10,2
+2024-05-29,"Columbia Basin Hospital",0,0,0,0,0,2,0,0,"Yes",11,0,0,0,0,0,10,2
+2024-05-18,"Confluence Health Hospital Central Campus",1,3,0,0,107,117,6,5,"Yes",75,18,2,0,106,9,89,19
+2024-05-19,"Confluence Health Hospital Central Campus",2,3,0,0,105,116,8,8,"Yes",72,9,2,0,106,8,86,19
+2024-05-20,"Confluence Health Hospital Central Campus",2,3,0,0,106,116,8,8,"Yes",72,20,2,0,106,8,86,19
+2024-05-21,"Confluence Health Hospital Central Campus",2,3,0,0,110,116,9,9,"Yes",99,23,2,0,106,8,86,19
+2024-05-22,"Confluence Health Hospital Central Campus",2,3,0,0,114,121,12,11,"Yes",93,23,2,0,106,8,86,19
+2024-05-23,"Confluence Health Hospital Central Campus",2,3,0,0,105,108,8,7,"Yes",107,89,2,0,106,8,86,19
+2024-05-24,"Confluence Health Hospital Central Campus",2,3,0,0,101,108,8,8,"Yes",82,12,2,0,106,8,86,19
+2024-05-25,"Confluence Health Hospital Central Campus",1,3,0,0,100,108,8,7,"Yes",87,26,2,0,106,8,86,19
+2024-05-26,"Confluence Health Hospital Central Campus",2,3,0,0,100,106,10,10,"Yes",76,17,2,0,106,8,86,19
+2024-05-27,"Confluence Health Hospital Central Campus",2,3,0,0,108,112,10,10,"Yes",81,14,2,0,106,8,86,19
+2024-05-28,"Confluence Health Hospital Central Campus",2,3,0,0,112,112,10,8,"Yes",81,14,2,0,106,8,86,19
+2024-05-29,"Confluence Health Hospital Central Campus",3,3,0,0,107,112,10,9,"Yes",99,17,2,0,106,8,86,19
+2024-05-18,"Astria Sunnyside Hospital",0,0,0,0,8,10,4,4,"Yes",33,11,0,0,14,3,32,13
+2024-05-19,"Astria Sunnyside Hospital",0,0,0,0,8,8,4,4,"Yes",38,10,0,0,13,3,31,13
+2024-05-20,"Astria Sunnyside Hospital",0,0,0,0,9,9,3,3,"Yes",37,11,0,0,12,3,32,13
+2024-05-21,"Astria Sunnyside Hospital",0,0,0,0,8,8,4,4,"Yes",41,13,0,0,12,3,31,13
+2024-05-22,"Astria Sunnyside Hospital",0,0,0,0,12,12,4,4,"Yes",35,13,0,0,12,3,32,13
+2024-05-23,"Astria Sunnyside Hospital",0,0,0,0,14,14,4,4,"Yes",33,18,0,0,12,3,31,13
+2024-05-24,"Astria Sunnyside Hospital",0,0,0,0,14,14,2,2,"Yes",39,15,0,0,12,3,31,13
+2024-05-25,"Astria Sunnyside Hospital",0,0,0,0,11,11,2,2,"Yes",33,17,0,0,12,3,31,13
+2024-05-26,"Astria Sunnyside Hospital",0,0,0,0,13,13,2,2,"Yes",31,10,0,0,12,3,31,13
+2024-05-27,"Astria Sunnyside Hospital",0,0,0,0,15,15,5,5,"Yes",32,15,0,0,12,3,31,13
+2024-05-28,"Astria Sunnyside Hospital",0,0,0,0,13,13,5,5,"Yes",25,13,0,0,12,3,31,13
+2024-05-29,"Astria Sunnyside Hospital",0,0,0,0,15,15,4,4,"Yes",39,12,0,0,12,3,31,13
+2024-05-18,"Confluence Health Hospital Mares Campus",0,0,0,0,3,5,0,0,"Yes",32,9,0,0,8,0,35,9
+2024-05-19,"Confluence Health Hospital Mares Campus",0,0,0,0,2,5,0,0,"Yes",27,11,0,0,6,0,33,9
+2024-05-20,"Confluence Health Hospital Mares Campus",0,0,0,0,3,5,0,0,"Yes",27,8,0,0,6,0,33,9
+2024-05-21,"Confluence Health Hospital Mares Campus",0,0,0,0,4,5,0,0,"Yes",38,17,0,0,5,0,32,9
+2024-05-22,"Confluence Health Hospital Mares Campus",0,0,0,0,3,4,0,0,"Yes",36,7,0,0,5,0,31,9
+2024-05-23,"Confluence Health Hospital Mares Campus",0,0,0,0,8,9,0,0,"Yes",37,7,0,0,5,0,34,9
+2024-05-24,"Confluence Health Hospital Mares Campus",0,0,0,0,7,9,0,0,"Yes",33,10,0,0,5,0,35,9
+2024-05-25,"Confluence Health Hospital Mares Campus",0,0,0,0,4,6,0,0,"Yes",32,7,0,0,6,0,34,9
+2024-05-26,"Confluence Health Hospital Mares Campus",0,0,0,0,5,8,0,0,"Yes",32,7,0,0,6,0,33,9
+2024-05-27,"Confluence Health Hospital Mares Campus",0,0,0,0,6,8,0,0,"Yes",30,8,0,0,5,0,33,9
+2024-05-28,"Confluence Health Hospital Mares Campus",0,0,0,0,7,8,0,0,"Yes",32,13,0,0,5,0,32,9
+2024-05-29,"Confluence Health Hospital Mares Campus",0,0,0,0,9,9,0,0,"Yes",40,12,0,0,5,0,32,9
+2024-05-18,"Astria Toppenish Hospital",0,0,0,0,0,0,6,6,"Yes",27,12,0,0,1,5,33,12
+2024-05-19,"Astria Toppenish Hospital",0,0,0,0,2,2,7,7,"Yes",38,10,0,0,1,5,38,12
+2024-05-20,"Astria Toppenish Hospital",1,1,0,0,3,3,6,6,"Yes",35,7,0,0,2,5,35,12
+2024-05-21,"Astria Toppenish Hospital",0,0,0,0,4,4,7,7,"Yes",35,17,0,0,2,5,36,12
+2024-05-22,"Astria Toppenish Hospital",0,0,0,0,5,5,4,4,"Yes",47,10,0,0,2,5,36,12
+2024-05-23,"Astria Toppenish Hospital",0,0,0,0,3,3,6,6,"Yes",36,11,0,0,2,5,37,11
+2024-05-24,"Astria Toppenish Hospital",0,0,0,0,2,2,7,7,"Yes",37,10,0,0,2,5,36,12
+2024-05-25,"Astria Toppenish Hospital",0,0,0,0,0,0,6,6,"Yes",35,9,0,0,2,5,34,12
+2024-05-26,"Astria Toppenish Hospital",0,0,0,0,0,0,7,7,"Yes",36,17,0,0,2,5,39,12
+2024-05-27,"Astria Toppenish Hospital",0,0,0,0,3,3,6,6,"Yes",39,10,0,0,2,5,35,12
+2024-05-28,"Astria Toppenish Hospital",0,0,0,0,3,3,4,4,"Yes",52,10,0,0,2,5,35,12
+2024-05-29,"Astria Toppenish Hospital",0,0,0,0,1,1,5,5,"Yes",39,21,0,0,2,5,36,12
+2024-05-18,"Mason Health",0,0,0,0,18,18,5,4,"Yes",46,16,0,0,15,5,45,7
+2024-05-19,"Mason Health",0,0,0,0,16,16,4,4,"Yes",48,18,0,0,15,5,46,7
+2024-05-20,"Mason Health",0,0,0,0,18,20,7,6,"Yes",53,10,0,0,15,5,45,7
+2024-05-21,"Mason Health",0,0,0,0,21,21,5,5,"Yes",45,11,0,0,15,4,45,7
+2024-05-22,"Mason Health",0,0,0,0,15,18,8,3,"Yes",47,6,0,0,15,4,45,7
+2024-05-23,"Mason Health",0,0,0,0,19,19,7,4,"Yes",41,13,0,0,15,4,46,7
+2024-05-24,"Mason Health",0,0,0,0,20,22,4,3,"Yes",52,5,0,0,15,4,46,7
+2024-05-25,"Mason Health",0,0,0,0,18,18,4,4,"Yes",46,3,0,0,15,4,44,7
+2024-05-26,"Mason Health",0,0,0,0,19,20,8,8,"Yes",44,8,0,0,15,4,46,7
+2024-05-27,"Mason Health",0,0,0,0,18,20,6,5,"Yes",56,7,0,0,15,4,45,8
+2024-05-28,"Mason Health",0,0,0,0,19,20,6,6,"Yes",56,6,0,0,15,4,45,8
+2024-05-29,"Mason Health",0,0,0,0,16,20,7,6,"Yes",59,2,0,0,15,4,45,8
+2024-05-18,"Harbor Regional Health",0,0,0,0,36,36,2,2,"Yes",45,8,0,0,38,4,52,9
+2024-05-19,"Harbor Regional Health",0,0,0,0,36,36,3,3,"Yes",58,10,0,0,38,4,51,8
+2024-05-20,"Harbor Regional Health",0,0,0,0,38,38,5,5,"Yes",41,7,0,0,39,4,51,9
+2024-05-21,"Harbor Regional Health",0,0,0,0,39,39,4,4,"Yes",60,2,0,0,39,3,51,9
+2024-05-22,"Harbor Regional Health",0,0,0,0,34,34,5,5,"Yes",54,12,0,0,39,4,52,9
+2024-05-23,"Harbor Regional Health",0,0,0,0,36,36,5,5,"Yes",52,9,0,0,39,4,51,8
+2024-05-24,"Harbor Regional Health",0,0,0,0,34,34,3,3,"Yes",46,11,0,0,39,4,52,8
+2024-05-25,"Harbor Regional Health",0,0,0,0,35,35,3,3,"Yes",45,9,0,0,39,4,52,9
+2024-05-26,"Harbor Regional Health",0,0,0,0,31,31,1,1,"Yes",51,9,0,0,39,4,51,9
+2024-05-27,"Harbor Regional Health",0,0,0,0,30,30,3,3,"Yes",58,8,0,0,39,4,51,8
+2024-05-28,"Harbor Regional Health",0,0,0,0,37,37,4,4,"Yes",51,12,0,0,39,4,51,8
+2024-05-29,"Harbor Regional Health",0,0,0,0,38,38,4,4,"Yes",56,14,0,0,39,4,52,8
+2024-05-18,"Samaritan Healthcare",0,0,0,0,9,9,6,6,"Yes",43,15,0,-1,15,7,59,16
+2024-05-19,"Samaritan Healthcare",0,0,0,0,7,7,7,7,"Yes",51,18,0,-1,14,7,57,15
+2024-05-20,"Samaritan Healthcare",0,0,0,0,13,13,9,9,"Yes",50,13,0,0,13,7,56,16
+2024-05-21,"Samaritan Healthcare",0,0,0,0,10,10,8,8,"Yes",77,18,0,-1,13,7,56,16
+2024-05-22,"Samaritan Healthcare",0,0,0,0,10,10,11,11,"Yes",47,15,0,-1,12,7,56,15
+2024-05-23,"Samaritan Healthcare",0,0,0,0,10,10,7,7,"Yes",52,19,0,-1,12,7,56,16
+2024-05-24,"Samaritan Healthcare",0,0,0,0,16,16,8,8,"Yes",54,18,0,0,12,7,56,16
+2024-05-25,"Samaritan Healthcare",0,0,0,0,15,15,8,8,"Yes",60,20,0,0,12,7,56,16
+2024-05-26,"Samaritan Healthcare",0,0,0,0,8,8,7,7,"Yes",60,19,0,0,12,7,56,15
+2024-05-27,"Samaritan Healthcare",0,0,0,0,8,8,7,7,"Yes",62,15,0,0,12,7,56,16
+2024-05-28,"Samaritan Healthcare",0,0,0,0,12,12,9,9,"Yes",59,18,0,0,12,7,56,16
+2024-05-29,"Samaritan Healthcare",0,0,0,0,17,17,8,8,"Yes",74,18,0,0,12,7,56,15
+2024-05-18,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",13,2,0,0,1,0,11,1
+2024-05-19,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",13,6,0,0,1,0,12,1
+2024-05-20,"Cascade Medical",0,0,0,0,5,7,0,0,"Yes",14,1,0,0,1,0,11,1
+2024-05-21,"Cascade Medical",0,0,0,0,5,7,0,0,"Yes",15,1,0,0,2,0,11,1
+2024-05-22,"Cascade Medical",0,0,0,0,6,7,0,0,"Yes",6,0,0,0,2,0,11,1
+2024-05-23,"Cascade Medical",0,0,0,0,6,7,0,0,"Yes",7,3,0,0,2,0,11,1
+2024-05-24,"Cascade Medical",0,0,0,0,4,7,0,0,"Yes",10,1,0,0,2,0,11,1
+2024-05-25,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",14,0,0,0,2,0,11,1
+2024-05-25,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",13,0,0,0,2,0,11,1
+2024-05-26,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",14,1,0,0,2,0,11,1
+2024-05-26,"Cascade Medical",0,0,0,0,3,7,0,0,"Yes",15,1,0,0,2,0,11,1
+2024-05-27,"Cascade Medical",0,0,0,0,2,7,0,0,"Yes",16,7,0,0,2,0,11,1
+2024-05-28,"Cascade Medical",0,0,0,0,1,7,0,0,"Yes",9,2,0,0,3,0,11,1
+2024-05-29,"Cascade Medical",0,0,0,0,1,7,0,0,"Yes",15,3,0,0,3,0,11,1
+2024-05-18,"Arbor Health",0,0,0,0,5,15,0,0,"Yes",10,2,0,0,5,0,14,2
+2024-05-19,"Arbor Health",0,0,0,0,4,15,0,0,"Yes",9,1,0,0,5,0,13,2
+2024-05-20,"Arbor Health",0,0,0,0,5,15,0,0,"Yes",14,1,0,0,5,0,13,2
+2024-05-21,"Arbor Health",0,0,0,0,6,15,0,0,"Yes",15,1,0,0,5,0,13,2
+2024-05-22,"Arbor Health",0,0,0,0,7,15,0,0,"Yes",7,3,0,0,5,0,13,2
+2024-05-23,"Arbor Health",0,0,0,0,3,15,0,0,"Yes",9,2,0,0,5,0,13,2
+2024-05-24,"Arbor Health",0,0,0,0,4,15,0,0,"Yes",15,6,0,0,5,0,13,2
+2024-05-25,"Arbor Health",0,0,0,0,4,15,0,0,"Yes",16,2,0,0,5,0,13,2
+2024-05-26,"Arbor Health",0,0,0,0,4,15,0,0,"Yes",12,2,0,0,5,0,13,2
+2024-05-27,"Arbor Health",0,0,0,0,5,15,0,0,"Yes",15,2,0,0,5,0,13,2
+2024-05-28,"Arbor Health",0,0,0,0,6,15,0,0,"Yes",20,2,0,0,5,0,13,2
+2024-05-29,"Arbor Health",0,0,0,0,6,15,0,0,"Yes",20,0,0,0,5,0,13,2
+2024-05-18,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",20,3,0,0,4,0,12,3
+2024-05-19,"North Valley Hospital",0,0,0,0,8,15,0,0,"Yes",17,6,0,0,5,0,13,3
+2024-05-20,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",21,5,0,0,5,0,12,3
+2024-05-21,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",13,4,-1,0,5,0,13,3
+2024-05-22,"North Valley Hospital",0,0,0,0,6,15,0,0,"Yes",13,3,-1,0,5,0,13,3
+2024-05-23,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",8,5,-1,0,5,0,12,3
+2024-05-24,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",21,4,0,0,6,0,13,3
+2024-05-25,"North Valley Hospital",0,0,0,0,7,15,0,0,"Yes",10,7,0,0,6,0,13,3
+2024-05-26,"North Valley Hospital",0,0,0,0,6,15,0,0,"Yes",17,7,-1,0,6,0,13,3
+2024-05-27,"North Valley Hospital",0,0,0,0,6,15,0,0,"Yes",16,5,-1,0,6,0,13,3
+2024-05-28,"North Valley Hospital",0,0,0,0,4,15,0,0,"Yes",10,1,0,0,6,0,13,3
+2024-05-29,"North Valley Hospital",0,0,0,0,4,15,0,0,"Yes",12,2,0,0,6,0,13,3
+2024-05-18,"Pullman Regional Hospital",0,0,0,0,8,18,6,3,"Yes",17,9,-1,0,7,1,30,6
+2024-05-19,"Pullman Regional Hospital",0,0,0,0,8,18,6,1,"Yes",17,2,0,0,9,1,30,6
+2024-05-20,"Pullman Regional Hospital",0,0,0,0,12,18,6,0,"Yes",35,11,0,0,10,1,30,6
+2024-05-21,"Pullman Regional Hospital",0,0,0,0,13,18,6,0,"Yes",27,3,0,0,9,1,30,6
+2024-05-22,"Pullman Regional Hospital",0,0,0,0,9,18,6,0,"Yes",23,7,0,0,10,1,31,6
+2024-05-23,"Pullman Regional Hospital",0,0,0,0,6,18,6,1,"Yes",27,3,0,0,10,1,31,6
+2024-05-24,"Pullman Regional Hospital",0,0,0,0,12,18,6,2,"Yes",27,9,0,0,9,1,30,6
+2024-05-25,"Pullman Regional Hospital",0,0,0,0,14,18,6,2,"Yes",34,6,0,0,9,1,30,6
+2024-05-26,"Pullman Regional Hospital",0,0,0,0,8,18,6,3,"Yes",35,5,0,0,10,1,30,6
+2024-05-27,"Pullman Regional Hospital",0,0,0,0,6,18,6,2,"Yes",22,5,0,0,11,1,30,6
+2024-05-28,"Pullman Regional Hospital",1,1,0,0,8,17,6,0,"Yes",26,10,0,0,10,1,30,6
+2024-05-29,"Pullman Regional Hospital",0,0,0,0,6,18,6,2,"Yes",35,7,0,0,10,1,30,6
+2024-05-18,"Skyline Hospital",0,0,0,0,5,12,1,0,"Yes",11,3,0,0,4,0,9,2
+2024-05-19,"Skyline Hospital",0,0,0,0,5,12,1,0,"Yes",7,1,0,0,4,0,9,1
+2024-05-20,"Skyline Hospital",0,0,0,0,5,12,1,0,"Yes",11,1,0,0,4,0,9,2
+2024-05-21,"Skyline Hospital",0,0,0,0,7,12,1,0,"Yes",8,2,0,0,4,0,9,1
+2024-05-22,"Skyline Hospital",0,0,0,0,8,12,1,0,"Yes",5,4,0,0,5,0,9,2
+2024-05-23,"Skyline Hospital",0,0,0,0,6,12,1,0,"Yes",8,1,0,0,5,0,9,1
+2024-05-24,"Skyline Hospital",0,0,0,0,5,12,1,0,"Yes",14,3,0,0,5,0,9,2
+2024-05-25,"Skyline Hospital",0,0,0,0,5,12,1,0,"Yes",8,1,0,0,5,0,9,1
+2024-05-26,"Skyline Hospital",0,0,0,0,4,12,1,0,"Yes",13,1,0,0,5,0,9,2
+2024-05-27,"Skyline Hospital",0,0,0,0,4,12,1,0,"Yes",7,2,0,0,5,0,9,1
+2024-05-28,"Skyline Hospital",0,0,0,0,3,12,1,0,"Yes",16,6,0,0,5,0,9,2
+2024-05-29,"Skyline Hospital",0,0,0,0,4,12,1,0,"Yes",8,0,0,0,5,0,9,1
+2024-05-18,"Othello Community Hospital",0,3,0,0,2,5,0,0,"Yes",14,4,0,0,2,0,11,6
+2024-05-19,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",15,11,0,0,2,0,11,5
+2024-05-20,"Othello Community Hospital",0,3,0,0,2,5,0,0,"Yes",16,6,0,0,1,0,11,5
+2024-05-21,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",10,5,0,0,1,0,11,7
+2024-05-22,"Othello Community Hospital",0,3,0,0,2,5,0,0,"Yes",7,5,0,0,1,0,10,7
+2024-05-23,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",15,9,0,0,1,0,11,6
+2024-05-24,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",16,5,0,0,1,0,11,6
+2024-05-25,"Othello Community Hospital",0,3,0,0,2,5,0,0,"Yes",11,6,0,0,1,0,11,6
+2024-05-26,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",13,12,0,0,1,0,11,6
+2024-05-27,"Othello Community Hospital",0,3,0,0,1,5,0,0,"Yes",6,8,0,0,1,0,11,6
+2024-05-28,"Othello Community Hospital",0,3,0,0,3,5,0,0,"Yes",17,10,0,0,1,0,11,6
+2024-05-29,"Othello Community Hospital",0,3,0,0,3,5,0,0,"Yes",11,5,0,0,1,0,11,6
+2024-05-18,"WhidbeyHealth",0,1,0,0,11,23,4,1,"Yes",51,8,0,0,9,2,47,8
+2024-05-19,"WhidbeyHealth",0,1,0,0,12,23,4,3,"Yes",35,6,0,0,10,2,44,8
+2024-05-20,"WhidbeyHealth",0,1,0,0,13,23,4,2,"Yes",50,10,0,0,10,1,44,8
+2024-05-21,"WhidbeyHealth",0,1,0,0,13,23,4,2,"Yes",57,6,0,0,10,1,46,8
+2024-05-22,"WhidbeyHealth",0,1,0,0,6,23,4,1,"Yes",42,7,0,0,10,1,45,8
+2024-05-22,"WhidbeyHealth",0,1,0,0,6,23,4,0,"Yes",42,7,0,0,10,1,45,8
+2024-05-22,"WhidbeyHealth",0,1,0,0,6,23,4,0,"Yes",42,7,0,0,10,1,45,8
+2024-05-23,"WhidbeyHealth",0,1,0,0,14,23,4,2,"Yes",47,7,0,0,10,1,45,8
+2024-05-24,"WhidbeyHealth",0,1,0,0,11,23,4,1,"Yes",51,9,0,0,10,1,46,8
+2024-05-25,"WhidbeyHealth",0,1,0,0,9,23,4,2,"Yes",39,6,0,0,10,1,45,8
+2024-05-26,"WhidbeyHealth",0,1,0,0,10,23,4,2,"Yes",47,6,0,0,10,1,45,8
+2024-05-27,"WhidbeyHealth",0,1,0,0,6,23,4,2,"Yes",56,10,0,0,10,1,44,8
+2024-05-28,"WhidbeyHealth",1,1,0,0,10,23,4,2,"Yes",60,16,0,0,10,1,45,8
+2024-05-29,"WhidbeyHealth",0,1,0,0,7,23,4,3,"Yes",69,9,0,0,10,1,46,8
+2024-05-18,"Klickitat Valley Health",0,0,0,0,5,11,0,0,"Yes",7,2,0,0,6,0,11,2
+2024-05-19,"Klickitat Valley Health",0,0,0,0,4,11,0,0,"Yes",17,3,0,0,5,0,11,2
+2024-05-20,"Klickitat Valley Health",0,0,0,0,4,11,0,0,"Yes",13,2,0,0,5,0,11,2
+2024-05-21,"Klickitat Valley Health",0,0,0,0,4,11,0,0,"Yes",15,4,0,0,5,0,12,2
+2024-05-22,"Klickitat Valley Health",0,0,0,0,4,11,0,0,"Yes",13,4,0,0,4,0,11,2
+2024-05-23,"Klickitat Valley Health",0,0,0,0,4,11,0,0,"Yes",16,0,0,0,4,0,12,2
+2024-05-24,"Klickitat Valley Health",0,0,0,0,6,11,0,0,"Yes",14,3,0,0,4,0,11,2
+2024-05-25,"Klickitat Valley Health",0,0,0,0,6,11,0,0,"Yes",9,2,0,0,4,0,12,2
+2024-05-26,"Klickitat Valley Health",0,0,0,0,6,11,0,0,"Yes",16,4,0,0,4,0,12,2
+2024-05-27,"Klickitat Valley Health",0,0,0,0,6,11,0,0,"Yes",5,4,0,0,4,0,11,2
+2024-05-28,"Klickitat Valley Health",0,0,0,0,6,11,0,0,"Yes",18,3,0,0,4,0,12,2
+2024-05-29,"Klickitat Valley Health",0,0,0,0,7,11,0,0,"Yes",8,6,0,0,4,0,11,2
+2024-05-18,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",8,0,0,0,6,0,5,0
+2024-05-19,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",5,1,0,0,6,0,5,1
+2024-05-20,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",3,0,0,0,6,0,5,1
+2024-05-21,"Columbia County Health System",0,0,0,0,7,14,0,0,"Yes",6,2,0,0,6,0,5,1
+2024-05-22,"Columbia County Health System",0,0,0,0,4,14,0,0,"Yes",6,2,0,0,6,0,5,1
+2024-05-23,"Columbia County Health System",0,0,0,0,4,14,0,0,"Yes",6,1,0,0,6,0,5,1
+2024-05-24,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",6,2,0,0,6,0,5,1
+2024-05-25,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",10,1,0,0,6,0,5,1
+2024-05-26,"Columbia County Health System",0,0,0,0,6,14,0,0,"Yes",4,2,0,0,6,0,5,1
+2024-05-27,"Columbia County Health System",0,0,0,0,7,14,0,0,"Yes",9,0,0,0,6,0,5,1
+2024-05-28,"Columbia County Health System",0,0,0,0,7,14,0,0,"Yes",7,1,0,0,6,0,5,1
+2024-05-29,"Columbia County Health System",0,0,0,0,7,14,0,0,"Yes",9,0,0,0,6,0,5,1
+2024-05-18,"Yakima Valley Memorial",3,4,0,0,134,134,6,6,"Yes",178,50,2,0,127,5,199,49
+2024-05-19,"Yakima Valley Memorial",2,2,0,0,129,130,6,6,"Yes",174,47,3,0,126,5,189,48
+2024-05-20,"Yakima Valley Memorial",2,2,0,0,133,135,4,4,"Yes",172,54,3,0,127,5,190,50
+2024-05-21,"Yakima Valley Memorial",2,4,0,0,120,122,8,8,"Yes",202,47,3,0,127,5,189,49
+2024-05-21,"Yakima Valley Memorial",2,4,0,0,120,122,8,8,"Yes",202,47,3,0,127,5,189,49
+2024-05-22,"Yakima Valley Memorial",1,4,0,0,121,121,8,8,"Yes",220,51,3,0,127,5,188,50
+2024-05-23,"Yakima Valley Memorial",2,4,0,0,125,125,8,8,"Yes",208,54,3,0,127,5,191,50
+2024-05-24,"Yakima Valley Memorial",2,4,0,0,129,129,7,7,"Yes",197,41,3,0,127,5,193,49
+2024-05-26,"Yakima Valley Memorial",2,4,0,0,121,123,6,6,"Yes",167,48,3,0,126,5,192,49
+2024-05-27,"Yakima Valley Memorial",2,4,0,0,129,130,8,8,"Yes",167,48,3,0,127,5,191,49
+2024-05-28,"Yakima Valley Memorial",1,4,0,0,132,134,6,5,"Yes",170,44,3,0,127,5,189,49
+2024-05-29,"Yakima Valley Memorial",2,4,0,0,128,130,4,4,"Yes",219,60,3,0,127,5,189,49
+2024-05-18,"Island Hospital",0,0,0,0,13,13,3,3,"Yes",37,4,0,0,14,2,41,7
+2024-05-19,"Island Hospital",0,0,0,0,20,20,2,2,"Yes",28,8,0,0,14,3,41,7
+2024-05-20,"Island Hospital",0,0,0,0,13,13,4,4,"Yes",48,12,0,0,14,2,41,7
+2024-05-21,"Island Hospital",0,0,0,0,16,16,4,4,"Yes",52,10,0,0,14,3,41,7
+2024-05-22,"Island Hospital",0,0,0,0,20,20,1,1,"Yes",35,3,0,0,14,2,41,7
+2024-05-23,"Island Hospital",0,0,0,0,17,17,5,5,"Yes",42,7,0,0,14,2,41,7
+2024-05-24,"Island Hospital",0,0,0,0,17,17,2,2,"Yes",47,8,0,0,14,2,41,7
+2024-05-25,"Island Hospital",0,0,0,0,18,18,5,5,"Yes",42,9,0,0,14,2,41,7
+2024-05-26,"Island Hospital",0,0,0,0,18,18,3,3,"Yes",37,5,0,0,14,3,41,7
+2024-05-27,"Island Hospital",0,0,0,0,14,14,2,2,"Yes",44,7,0,0,14,2,41,7
+2024-05-28,"Island Hospital",0,0,0,0,13,13,3,3,"Yes",49,6,0,0,14,3,41,7
+2024-05-18,"EvergreenHealth",7,7,0,0,175,181,20,20,"Yes",175,14,5,0,185,17,156,17
+2024-05-19,"EvergreenHealth",7,7,0,0,182,187,20,20,"Yes",146,14,5,0,182,17,157,16
+2024-05-20,"EvergreenHealth",8,8,0,0,180,183,20,18,"Yes",151,26,5,-1,181,17,159,17
+2024-05-21,"EvergreenHealth",6,6,0,0,171,178,20,20,"Yes",184,16,5,0,179,17,159,16
+2024-05-22,"EvergreenHealth",5,6,0,0,178,184,20,18,"Yes",183,16,5,0,178,16,160,17
+2024-05-23,"EvergreenHealth",6,6,0,0,185,186,20,18,"Yes",162,18,5,0,178,16,160,16
+2024-05-23,"EvergreenHealth",6,6,0,0,185,186,20,18,"Yes",162,18,5,0,178,16,160,16
+2024-05-24,"EvergreenHealth",6,6,0,0,171,179,20,17,"Yes",187,21,5,0,177,16,160,17
+2024-05-24,"EvergreenHealth",6,6,0,0,171,179,20,17,"Yes",187,21,5,0,177,16,160,17
+2024-05-24,"EvergreenHealth",6,6,0,0,171,179,20,17,"Yes",187,21,5,0,177,16,160,17
+2024-05-24,"EvergreenHealth",6,6,0,0,171,179,20,17,"Yes",187,21,5,0,177,16,160,17
+2024-05-25,"EvergreenHealth",5,6,0,0,171,179,19,17,"Yes",162,14,5,0,177,16,160,16
+2024-05-25,"EvergreenHealth",5,6,0,0,171,179,19,17,"Yes",166,28,5,0,177,16,160,16
+2024-05-25,"EvergreenHealth",5,6,0,0,171,179,19,17,"Yes",147,11,5,0,177,16,160,16
+2024-05-26,"EvergreenHealth",5,6,0,0,176,177,18,14,"Yes",153,17,4,0,177,16,160,16
+2024-05-26,"EvergreenHealth",5,6,0,0,176,177,18,14,"Yes",153,17,4,0,177,16,160,16
+2024-05-26,"EvergreenHealth",5,6,0,0,176,177,18,14,"Yes",153,17,4,0,177,16,160,16
+2024-05-26,"EvergreenHealth",5,6,0,0,176,177,18,14,"Yes",147,11,4,0,177,16,160,16
+2024-05-27,"EvergreenHealth",5,6,0,0,185,187,18,17,"Yes",166,28,4,0,177,16,160,16
+2024-05-27,"EvergreenHealth",5,6,0,0,185,187,18,17,"Yes",162,14,4,0,177,16,160,16
+2024-05-27,"EvergreenHealth",5,6,0,0,185,187,18,17,"Yes",147,11,4,0,177,16,160,16
+2024-05-28,"EvergreenHealth",6,6,0,0,188,188,20,18,"Yes",147,11,4,0,177,16,160,17
+2024-05-18,"Willapa Harbor Hospital",0,1,0,0,1,7,0,0,"Yes",14,0,0,0,1,0,13,2
+2024-05-18,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",14,0,0,0,1,0,13,2
+2024-05-19,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",13,0,0,0,1,0,12,2
+2024-05-20,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",12,2,0,0,1,0,12,2
+2024-05-21,"Willapa Harbor Hospital",0,1,0,0,5,7,0,0,"Yes",17,8,0,0,1,0,12,2
+2024-05-22,"Willapa Harbor Hospital",0,1,0,0,4,7,0,0,"Yes",10,4,0,0,1,0,12,2
+2024-05-23,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",7,0,0,0,1,0,12,2
+2024-05-24,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",15,2,0,0,1,0,12,2
+2024-05-25,"Willapa Harbor Hospital",0,1,0,0,1,7,0,0,"Yes",13,4,0,0,1,0,12,2
+2024-05-26,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",9,2,0,0,1,0,12,2
+2024-05-27,"Willapa Harbor Hospital",0,1,0,0,2,7,0,0,"Yes",12,4,0,0,1,0,12,2
+2024-05-28,"Willapa Harbor Hospital",0,1,0,0,1,7,0,0,"Yes",19,2,0,0,1,0,12,2
+2024-05-18,"Valley Medical Center",3,14,0,0,178,198,30,24,"Yes",210,31,6,0,175,26,219,31
+2024-05-19,"Valley Medical Center",4,14,0,0,174,198,30,23,"Yes",214,33,5,0,172,25,214,27
+2024-05-20,"Valley Medical Center",4,14,0,0,172,198,30,19,"Yes",197,32,5,0,176,25,213,30
+2024-05-21,"Valley Medical Center",4,14,0,0,174,198,30,25,"Yes",216,37,5,0,171,25,203,28
+2024-05-22,"Valley Medical Center",4,14,0,0,190,198,30,26,"Yes",224,35,5,0,170,24,203,29
+2024-05-23,"Valley Medical Center",2,14,0,0,178,198,30,29,"Yes",205,21,5,0,168,24,207,29
+2024-05-24,"Valley Medical Center",4,14,0,0,188,198,30,27,"Yes",206,23,5,0,170,25,216,29
+2024-05-25,"Valley Medical Center",6,14,0,0,170,198,30,28,"Yes",207,30,5,0,177,24,220,29
+2024-05-26,"Valley Medical Center",6,14,0,0,168,198,30,27,"Yes",211,18,5,0,174,25,214,29
+2024-05-27,"Valley Medical Center",7,14,0,0,160,198,30,28,"Yes",202,31,4,0,178,25,212,29
+2024-05-28,"Valley Medical Center",7,14,0,0,166,198,30,28,"Yes",193,36,4,0,171,25,203,29
+2024-05-18,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",7,1,0,0,4,0,9,1
+2024-05-19,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",7,3,0,0,4,0,9,1
+2024-05-20,"Whitman Hospital & Medical Clinics",0,0,0,0,3,10,0,0,"Yes",10,0,0,0,4,0,9,1
+2024-05-21,"Whitman Hospital & Medical Clinics",0,0,0,0,5,10,0,0,"Yes",6,4,0,0,4,0,8,1
+2024-05-22,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",9,0,0,0,4,0,8,1
+2024-05-23,"Whitman Hospital & Medical Clinics",0,0,0,0,5,10,0,0,"Yes",11,0,0,0,4,0,8,1
+2024-05-24,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",5,1,0,0,4,0,8,1
+2024-05-25,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",12,1,0,0,4,0,8,1
+2024-05-26,"Whitman Hospital & Medical Clinics",0,0,0,0,5,10,0,0,"Yes",6,4,0,0,4,0,8,1
+2024-05-27,"Whitman Hospital & Medical Clinics",0,0,0,0,4,10,0,0,"Yes",17,4,0,0,4,0,8,1
+2024-05-18,"Jefferson Healthcare",0,0,0,0,13,19,6,2,"Yes",42,5,0,0,11,1,35,4
+2024-05-18,"Jefferson Healthcare",0,0,0,0,13,19,6,2,"Yes",42,5,0,0,11,1,35,4
+2024-05-19,"Jefferson Healthcare",0,0,0,0,9,19,6,1,"Yes",27,6,0,0,11,1,36,3
+2024-05-20,"Jefferson Healthcare",0,0,0,0,8,19,6,2,"Yes",35,4,0,0,11,1,38,3
+2024-05-21,"Jefferson Healthcare",0,0,0,0,11,19,6,2,"Yes",36,6,0,0,11,1,37,3
+2024-05-22,"Jefferson Healthcare",0,0,0,0,11,19,6,0,"Yes",32,6,0,0,11,1,36,3
+2024-05-23,"Jefferson Healthcare",0,0,0,0,11,19,6,0,"Yes",40,5,0,0,11,1,37,3
+2024-05-24,"Jefferson Healthcare",0,0,0,0,11,19,6,1,"Yes",49,2,0,0,11,1,37,3
+2024-05-25,"Jefferson Healthcare",0,0,0,0,11,19,6,2,"Yes",35,3,0,0,11,1,37,3
+2024-05-26,"Jefferson Healthcare",0,0,0,0,13,19,6,2,"Yes",29,3,0,0,11,1,37,3
+2024-05-27,"Jefferson Healthcare",0,0,0,0,12,19,6,0,"Yes",34,1,0,0,11,1,38,3
+2024-05-28,"Jefferson Healthcare",0,0,0,0,12,19,6,2,"Yes",38,5,0,0,11,1,37,3
+2024-05-18,"Ferry County Memorial Hospital",0,0,0,0,1,7,0,0,"Yes",10,3,0,0,0,0,5,0
+2024-05-19,"Ferry County Memorial Hospital",0,0,0,0,2,7,0,0,"Yes",2,0,0,0,0,0,5,1
+2024-05-20,"Ferry County Memorial Hospital",0,0,0,0,3,7,0,0,"Yes",7,1,0,0,0,0,5,1
+2024-05-21,"Ferry County Memorial Hospital",0,0,0,0,3,7,0,0,"Yes",5,1,0,0,1,0,5,1
+2024-05-22,"Ferry County Memorial Hospital",0,0,0,0,2,7,0,0,"Yes",6,0,0,0,1,0,5,1
+2024-05-23,"Ferry County Memorial Hospital",0,0,0,0,2,7,0,0,"Yes",6,1,0,0,1,0,5,1
+2024-05-24,"Ferry County Memorial Hospital",0,0,0,0,1,7,0,0,"Yes",5,1,0,0,1,0,5,1
+2024-05-25,"Ferry County Memorial Hospital",0,0,0,0,2,7,0,0,"Yes",7,2,0,0,1,0,5,1
+2024-05-25,"Ferry County Memorial Hospital",0,0,0,0,2,7,0,0,"Yes",4,2,0,0,1,0,5,1
+2024-05-26,"Ferry County Memorial Hospital",0,0,0,0,1,7,0,0,"Yes",4,2,0,0,1,0,5,1
+2024-05-27,"Ferry County Memorial Hospital",0,0,0,0,1,7,0,0,"Yes",4,1,0,0,1,0,5,1
+2024-05-27,"Ferry County Memorial Hospital",0,0,0,0,1,7,0,0,"Yes",6,1,0,0,1,0,5,1
+2024-05-28,"Ferry County Memorial Hospital",0,0,0,0,0,0,0,0,"Yes",10,0,0,0,1,0,5,1
+2024-05-18,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,20,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-19,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,19,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-20,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,19,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-21,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,20,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-22,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,20,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-23,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,17,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-24,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,18,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-25,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,20,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-26,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,19,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-27,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,18,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-28,"Fred Hutch Hospital at UWMC-Montlake",0,0,0,0,18,20,0,0,"Yes",0,0,0,0,18,0,0,0
+2024-05-18,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",1,4,0,0,4,0,3,0
+2024-05-19,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",3,0,0,0,4,0,3,0
+2024-05-20,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",5,3,0,0,4,0,3,0
+2024-05-21,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-22,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-23,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-23,"East Adams Rural Healthcare",0,0,0,0,12,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-24,"East Adams Rural Healthcare",0,0,0,0,5,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-24,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-24,"East Adams Rural Healthcare",0,0,0,0,12,12,0,0,"Yes",2,0,0,0,4,0,3,0
+2024-05-25,"East Adams Rural Healthcare",0,0,0,0,5,12,0,0,"Yes",3,0,0,0,4,0,3,0
+2024-05-25,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",3,0,0,0,4,0,3,0
+2024-05-26,"East Adams Rural Healthcare",0,0,0,0,5,12,0,0,"Yes",3,0,0,0,4,0,3,0
+2024-05-26,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",3,0,0,0,4,0,3,0
+2024-05-27,"East Adams Rural Healthcare",0,0,0,0,6,12,0,0,"Yes",3,2,0,0,4,0,3,0
+2024-05-27,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",3,2,0,0,4,0,3,0
+2024-05-28,"East Adams Rural Healthcare",0,0,0,0,6,12,0,0,"Yes",3,2,0,0,4,0,3,0
+2024-05-28,"East Adams Rural Healthcare",0,0,0,0,4,12,0,0,"Yes",3,2,0,0,4,0,3,0
+2024-05-18,"Garfield County Public Hospital District",0,0,0,0,15,25,0,0,"Yes",4,0,0,0,14,0,1,0
+2024-05-19,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",0,0,0,0,14,0,2,0
+2024-05-20,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",5,2,0,0,14,0,2,0
+2024-05-21,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",2,2,0,0,14,0,2,0
+2024-05-22,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",6,0,0,0,14,0,2,0
+2024-05-23,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",1,2,0,0,14,0,2,0
+2024-05-24,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",1,0,0,0,14,0,2,0
+2024-05-25,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",0,1,0,0,14,0,2,0
+2024-05-26,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",3,0,0,0,14,0,2,0
+2024-05-27,"Garfield County Public Hospital District",0,0,0,0,14,25,0,0,"Yes",0,1,0,0,14,0,2,0
